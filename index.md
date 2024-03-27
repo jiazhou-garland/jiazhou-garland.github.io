@@ -4,11 +4,11 @@ layout: homepage
 
 ## About Me
 
-Hi! I'm now a research assistant supervised by Prof. <a href="https://vlislab22.github.io/vlislab/linwang.html">Lin Wang</a> at HKUST(GZ).
+Hi! I'm now a research assistant supervised by Prof. <a href="https://vlislab22.github.io/vlislab/linwang.html">Lin Wang</a> at <a href="https://vlislab22.github.io/vlislab/">VLISLab</a>, <a href="https://www.hkust-gz.edu.cn/">The Hong Kong University of Science and Technology (Guangzhou)</a>.
 
 Currently, I am interested in Event-based vision and Multi-modal learning.
 
-Prior to HKUST, I obtained my B. Eng. and M. Eng. major in Electronic Science and Technology and Optical Engineering from the University of Electronic Science and Technology of China (UESTC) respectively. During my post-graduate study life, I focused on Semantic Segmentation and Instance Segmentation.
+Prior to HKUST(GZ), I obtained my B. Eng. and M. Eng. major in Electronic Science and Technology and Optical Engineering from the <a href="https://www.uestc.edu.cn/">University of Electronic Science and Technology of China (UESTC)</a> respectively, supervised by Prof.  <a href="https://sose.uestc.edu.cn/info/1022/1981.htm">Ping Zhang</a>, where I focused on Semantic Segmentation and Instance Segmentation.
 
 {% include_relative _includes/projects.md %}
 
@@ -26,6 +26,6 @@ Prior to HKUST, I obtained my B. Eng. and M. Eng. major in Electronic Science an
 - 2019.02 - 2019.07, Exchange semester, Karlsruhe University of Applied Sciences, German
 - 2013.09 - 2016.06, H.S., The First High School of Changsha, Changsha, China
 
-Last modified time: 2024/3/7
+Last modified time: 2024/3/27
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=3LGrgmyYI_ZwG_L9hAge87EruQozTUiUfLqacVMTNd0&cl=ffffff&w=a"></script>
