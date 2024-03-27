@@ -24,6 +24,5 @@ Prior to HKUST(GZ), I obtained my B. Eng. and M. Eng. major in Electronic Scienc
 - 2019.02 - 2019.07, Exchange semester, Karlsruhe University of Applied Sciences, German
 - 2013.09 - 2016.06, H.S., The First High School of Changsha, Changsha, China
 
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=4f4444&w=300&t=n&d=3LGrgmyYI_ZwG_L9hAge87EruQozTUiUfLqacVMTNd0&co=ffffff&ct=703e3e&cmo=54e8cd&cmn=ff64af'></script>
 Last modified time: 2024/3/27
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=3LGrgmyYI_ZwG_L9hAge87EruQozTUiUfLqacVMTNd0&cl=ffffff&w=a"></script>
