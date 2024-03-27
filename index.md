@@ -19,8 +19,8 @@ Prior to HKUST(GZ), I obtained my B. Eng. and M. Eng. major in Electronic Scienc
 
 
 ## Education
-- 2020.06 - 2023.06, M.E., UESTC, China
-- 2016.09 - 2020.06, B.E., UESTC, China
+- 2020.06 - 2023.06, M.E., Optical Engineering, UESTC, China
+- 2016.09 - 2020.06, B.E., Electronic Science and Technology, UESTC, China
 - 2019.02 - 2019.07, Exchange semester, Karlsruhe University of Applied Sciences, German
 - 2013.09 - 2016.06, H.S., The First High School of Changsha, Changsha, China
 
