@@ -40,6 +40,7 @@
     <div class="links">
     <a href="https://vlislab22.github.io/UniBind/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
       <a href="https://arxiv.org/pdf/2403.12532.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/QC-LY/UniBind" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 </div>
