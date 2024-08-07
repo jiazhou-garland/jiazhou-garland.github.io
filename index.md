@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi! I am a P.HD candidate who will be enrolled this year co-supervised by <a href="https://vlislab22.github.io/vlislab/linwang.html">Prof. Lin Wang</a> at <a href="https://vlislab22.github.io/vlislab/">VLISLab</a>, <a href="https://www.hkust-gz.edu.cn/">The Hong Kong University of Science and Technology (Guangzhou)</a> and Prof. Lei Zhang<a href="https://www.leizhang.org/">, IDEA<a href="https://www.idea.edu.cn/"> . Currently, I am interested in Event-based vision and Multi-modal learning.
+Hi! I am a P.HD candidate who will be enrolled this year co-supervised by <a href="https://vlislab22.github.io/vlislab/linwang.html">Prof. Lin Wang</a> at <a href="https://vlislab22.github.io/vlislab/">VLISLab</a>, <a href="https://www.hkust-gz.edu.cn/">The Hong Kong University of Science and Technology (Guangzhou)</a> and <a href="https://www.leizhang.org/">Prof. Lei Zhang</a>, <a href="https://www.idea.edu.cn/">IDEA</a>. Currently, I am interested in Event-based vision and Multi-modal learning.
 
 Prior to HKUST(GZ), I obtained my B. Eng. and M. Eng. major in Electronic Science and Technology and Optical Engineering from the <a href="https://www.uestc.edu.cn/">University of Electronic Science and Technology of China (UESTC)</a> respectively, supervised by <a href="https://sose.uestc.edu.cn/info/1022/1981.htm">Prof. Ping Zhang</a>, where I focused on Semantic Segmentation and Instance Segmentation.
 
