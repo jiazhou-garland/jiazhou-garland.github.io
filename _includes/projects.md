@@ -133,7 +133,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/eit.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/EIT-1M.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">arXiv</abbr>
   </div>
 
@@ -148,6 +148,10 @@ Recognition and More</a></div>
   </div>
 </div>
 </li>
+
+
+
+
 
 
 <br>
