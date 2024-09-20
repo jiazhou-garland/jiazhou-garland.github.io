@@ -2,7 +2,7 @@
 <div>  
   <div class="pub-row">  
     <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">  
-      <img src="assets/img/EventBind.png" class="teaser img-fluid z-depth-1" style="max-width: 100%; height: auto;">  
+      <img src="assets/img/EventBind.png" class="teaser img-fluid z-depth-1" style="width: 150px; height: 100px;">  
       <abbr class="badge">ECCV 2024</abbr>  
     </div>  
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">  
@@ -21,7 +21,7 @@
 
   <div class="pub-row">  
     <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">  
-      <img src="assets/img/MAGIC.jpg" class="teaser img-fluid z-depth-1" style="max-width: 100%; height: auto;">  
+      <img src="assets/img/MAGIC.jpg" class="teaser img-fluid z-depth-1" style="width: 150px; height: 100px;">  
       <abbr class="badge">ECCV 2024</abbr>  
     </div>  
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">  
@@ -39,7 +39,7 @@
 
   <div class="pub-row">  
     <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">  
-      <img src="assets/img/exact.png" class="teaser img-fluid z-depth-1" style="max-width: 100%; height: auto;">  
+      <img src="assets/img/exact.png" class="teaser img-fluid z-depth-1" style="width: 150px; height: 100px;">  
       <abbr class="badge">CVPR 2024 Highlight</abbr>  
     </div>  
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">  
@@ -58,7 +58,7 @@
 
   <div class="pub-row">  
     <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">  
-      <img src="assets/img/unibind.png" class="teaser img-fluid z-depth-1" style="max-width: 100%; height: auto;">  
+      <img src="assets/img/unibind.png" class="teaser img-fluid z-depth-1" style="width: 150px; height: 100px;">  
       <abbr class="badge">CVPR 2024</abbr>  
     </div>  
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">  
@@ -77,7 +77,7 @@
 
   <div class="pub-row">  
     <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">  
-      <img src="assets/img/e2v.png" class="teaser img-fluid z-depth-1" style="max-width: 100%; height: auto;">  
+      <img src="assets/img/e2v.png" class="teaser img-fluid z-depth-1" style="width: 150px; height: 100px;">  
       <abbr class="badge">Arkiv</abbr>  
     </div>  
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">  
