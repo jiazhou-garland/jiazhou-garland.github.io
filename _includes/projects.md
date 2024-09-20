@@ -25,7 +25,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/MAGIC.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/MAGIC.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ECCV 2024</abbr>
   </div>
 
@@ -88,7 +88,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/LaSe-E2V.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/e2v.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Arkiv</abbr>
   </div>
 
