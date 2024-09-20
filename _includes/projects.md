@@ -4,6 +4,48 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/EventBind.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ECCV 2024</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2308.03135">EventBind: Learning a Unified Representation to Bind Them All for Event-based Open-world Understanding</a></div>
+    <div class="author"><strong>Jiazhou Zhou</strong>, Xu Zheng, Yuanhuiyi Lyu, Lin Wang</div>
+    <div class="periodical"><em>European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.</em></div>
+    <div class="links">
+    <a href="https://vlislab22.github.io/EventBind/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
+      <a href="https://arxiv.org/pdf/2308.03135.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/jiazhou-garland/EventBind" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/MAGIC.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ECCV 2024</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2407.11344">Centering the Value of Every Modality: Towards Efficient and Resilient Modality-agnostic Semantic Segmentation</a></div>
+    <div class="author">Xu Zheng, Yuanhuiyi Lyu, <strong>Jiazhou Zhou</strong>, Lin Wang</div>
+    <div class="periodical"><em>European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.</em></div>
+    <div class="links">
+    <a href="https://vlislab22.github.io/MAGIC/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
+      <a href="https://arxiv.org/pdf/2407.11344" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/exact.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">CVPR 2024 Highlight</abbr>
   </div>
@@ -42,27 +84,26 @@
 </div>
 </li>
 
-
 <li>
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/EventBind.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ECCV 2024</abbr>
+    <img src="assets/img/LaSe-E2V.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Arkiv</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2308.03135">EventBind: Learning a Unified Representation to Bind Them All for Event-based Open-world Understanding</a></div>
-    <div class="author"><strong>Jiazhou Zhou</strong>, Xu Zheng, Yuanhuiyi Lyu, Lin Wang</div>
-    <div class="periodical"><em>European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.</em></div>
+    <div class="title"><a href="https://arxiv.org/pdf/2407.05547">LaSe-E2V: Towards Language-guided Semantic-Aware Event-to-Video Reconstruction</a></div>
+    <div class="author">Kanghao Chen, Hangyu Li, <strong>Jiazhou Zhou</strong>, Zeyu Wang, Lin Wang</div>
+    <div class="periodical"><em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.</em></div>
     <div class="links">
-    <a href="https://vlislab22.github.io/EventBind/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
-      <a href="https://arxiv.org/pdf/2308.03135.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/jiazhou-garland/EventBind" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    <a href="https://vlislab22.github.io/UniBind/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
+      <a href="https://vlislab22.github.io/LaSe-E2V/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
 </li>
+
 
   
 <br>
