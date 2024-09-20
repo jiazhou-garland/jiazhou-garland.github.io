@@ -4,11 +4,11 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>  
 <div>  
   <div class="pub-row">  
-    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">  
+    <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">  
       <img src="assets/img/EventBind.png" class="teaser img-fluid z-depth-1" style="width: 150px; height: 100px;">  
-      <abbr class="badge">ECCV 2024</abbr>  
+      <abbr class="badge" style="position: absolute; top: 10px; left: 10px; background-color: rgba(255, 255, 255, 0.8); padding: 5px; border-radius: 5px;">ECCV 2024</abbr>  
     </div>  
-    <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">  
+    <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">  
       <div class="title">  
         <a href="https://arxiv.org/pdf/2308.03135">EventBind: Learning a Unified Representation to Bind Them All for Event-based Open-world Understanding</a>  
       </div>  
@@ -23,11 +23,11 @@
   </div>  
 
   <div class="pub-row">  
-    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">  
+    <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">  
       <img src="assets/img/MAGIC.jpg" class="teaser img-fluid z-depth-1" style="width: 150px; height: 100px;">  
-      <abbr class="badge">ECCV 2024</abbr>  
+      <abbr class="badge" style="position: absolute; top: 10px; left: 10px; background-color: rgba(255, 255, 255, 0.8); padding: 5px; border-radius: 5px;">ECCV 2024</abbr>  
     </div>  
-    <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">  
+    <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">  
       <div class="title">  
         <a href="https://arxiv.org/pdf/2407.11344">Centering the Value of Every Modality: Towards Efficient and Resilient Modality-agnostic Semantic Segmentation</a>  
       </div>  
@@ -41,11 +41,11 @@
   </div>  
 
   <div class="pub-row">  
-    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">  
+    <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">  
       <img src="assets/img/exact.png" class="teaser img-fluid z-depth-1" style="width: 150px; height: 100px;">  
-      <abbr class="badge">CVPR 2024 Highlight</abbr>  
+      <abbr class="badge" style="position: absolute; top: 10px; left: 10px; background-color: rgba(255, 255, 255, 0.8); padding: 5px; border-radius: 5px;">CVPR 2024 Highlight</abbr>  
     </div>  
-    <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">  
+    <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">  
       <div class="title">  
         <a href="https://arxiv.org/pdf/2403.12534.pdf">ExACT: Language-guided Conceptual Reasoning and Uncertainty Estimation for Event-based Action Recognition and More</a>  
       </div>  
@@ -60,11 +60,11 @@
   </div>  
 
   <div class="pub-row">  
-    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">  
+    <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">  
       <img src="assets/img/unibind.png" class="teaser img-fluid z-depth-1" style="width: 150px; height: 100px;">  
-      <abbr class="badge">CVPR 2024</abbr>  
+      <abbr class="badge" style="position: absolute; top: 10px; left: 10px; background-color: rgba(255, 255, 255, 0.8); padding: 5px; border-radius: 5px;">CVPR 2024</abbr>  
     </div>  
-    <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">  
+    <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">  
       <div class="title">  
         <a href="https://arxiv.org/pdf/2403.12532.pdf">UniBind: LLM-Augmented Unified and Balanced Representation Space to Bind Them All</a>  
       </div>  
@@ -79,11 +79,11 @@
   </div>  
 
   <div class="pub-row">  
-    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">  
+    <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">  
       <img src="assets/img/e2v.png" class="teaser img-fluid z-depth-1" style="width: 150px; height: 100px;">  
-      <abbr class="badge">Arkiv</abbr>  
+      <abbr class="badge" style="position: absolute; top: 10px; left: 10px; background-color: rgba(255, 255, 255, 0.8); padding: 5px; border-radius: 5px;">Arkiv</abbr>  
     </div>  
-    <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">  
+    <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">  
       <div class="title">  
         <a href="https://arxiv.org/pdf/2407.05547">LaSe-E2V: Towards Language-guided Semantic-Aware Event-to-Video Reconstruction</a>  
       </div>  
