@@ -118,7 +118,7 @@
         <a href="https://arxiv.org/pdf/2407.05547">LaSe-E2V: Towards Language-guided Semantic-Aware Event-to-Video Reconstruction</a>  
       </div>  
     <div class="author">Kanghao Chen, Hangyu Li, <strong>Jiazhou Zhou</strong>, Zeyu Wang, Lin Wang</div>
-    <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, 2024.</em></div>
+    <div class="periodical"><em>NeurIPS 2024, the Thirty-Eighth Annual Conference on Neural Information Processing Systems.</em></div>
       <div class="links">  
         <a href="https://vlislab22.github.io/LaSe-E2V/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>  
         <a href="https://arxiv.org/abs/2407.05547" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>  
