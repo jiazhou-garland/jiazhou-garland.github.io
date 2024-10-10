@@ -3,7 +3,7 @@
 <div class="publications">
 <ol class="bibliography">
 
-
+Selected publications. Please refer to my Google Scholar for full paper list.
 <li>
 <div class="pub-row">
 
