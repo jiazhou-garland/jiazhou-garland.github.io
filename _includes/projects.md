@@ -17,7 +17,9 @@
     <div class="author"><strong>Jiazhou Zhou</strong>, Kanghao Chen, Lei Zhang, Lin Wang</div>
     <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, 2024.</em></div>
     <div class="links">
+      <a href="https://vlislab22.github.io/pastssm/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>  
       <a href="https://arxiv.org/pdf/2409.16953" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/jiazhou-garland/PAST-SSM" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> 
     </div>
   </div>
 </div>
