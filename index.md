@@ -19,9 +19,10 @@ Hi! I am a PhD student (2024.09,--) of <a href="https://www.hkust-gz.edu.cn/">Th
 - 2018.10, Outstanding Undergraduate International Exchange Program Scholarship(Top 2), CSC. 
 - 2018.08, National University Mathematical Modeling Competition(Top 10).
 
-
 ## Academic Experience
-- 
+- 2023.06 - 2024.09, Research Assistant, Supervisor: Lin Wang<a href="https://scholar.google.com/citations?user=SReb2csAAAAJ&hl=zh-CN">
+
+## Education Experience
 - 2020.06 - 2023.06, M.E., Optical Engineering, UESTC, China
 - 2016.09 - 2020.06, B.E., Electronic Science and Technology, UESTC, China
 - 2019.02 - 2019.07, Exchange semester, Karlsruhe University of Applied Sciences, German
