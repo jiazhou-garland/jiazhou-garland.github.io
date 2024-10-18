@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi! I am a PhD student (2024.09,--) of <a href="https://www.hkust-gz.edu.cn/">The Hong Kong University of Science and Technology (Guangzhou)</a> supervised by <a href="https://www.leizhang.org/">Prof. Lei Zhang</a> at <a href="https://www.idea.edu.cn/">International Digital Economy Academy, IDEA</a>. Currently, I am interested in Computer Vision and Multi-modal learning.
+Hi! I am a PhD student (2024.09,--) of <a href="https://www.hkust-gz.edu.cn/"> The Hong Kong University of Science and Technology (Guangzhou)</a> supervised by <a href="https://www.leizhang.org/">Prof. Lei Zhang</a> at <a href="https://www.idea.edu.cn/">International Digital Economy Academy, IDEA</a>. Currently, I am interested in Computer Vision and Multi-modal learning.
 
  <!-- 
  Hi! I am a PhD student who will be enrolled this year supervised by <a href="https://vlislab22.github.io/vlislab/linwang.html">Prof. Lin Wang</a> at <a href="https://vlislab22.github.io/vlislab/">VLISLab</a>, <a href="https://www.hkust-gz.edu.cn/">The Hong Kong University of Science and Technology (Guangzhou)</a> and <a href="https://www.leizhang.org/">Prof. Lei Zhang</a> at <a href="https://www.idea.edu.cn/">International Digital Economy Academy, IDEA</a>. Currently, I am interested in Event-based vision and Multi-modal learning.
@@ -13,7 +13,8 @@ Hi! I am a PhD student (2024.09,--) of <a href="https://www.hkust-gz.edu.cn/">Th
 {% include_relative _includes/projects.md %}
 
 ## Academic Experience
-- 2023.06 - 2024.09, Research Assistant, Supervisor: <a href="https://scholar.google.com/citations?user=SReb2csAAAAJ&hl=zh-CN">Lin Wang</a>, Research area: Event-based vision and Multi-modal learning.
+- 2023.06 - 2024.09, Research Assistant, Supervisor: <a href="https://scholar.google.com/citations?user=SReb2csAAAAJ&hl=zh-CN">Lin Wang</a>
+Research area: Event-based vision and Multi-modal learning.
   
 ## Education Experience
 - 2020.06 - 2023.06, M.E., Optical Engineering, UESTC, China
