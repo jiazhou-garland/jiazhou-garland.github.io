@@ -20,7 +20,7 @@ Hi! I am a PhD student (2024.09,--) of <a href="https://www.hkust-gz.edu.cn/">Th
 - 2018.08, National University Mathematical Modeling Competition(Top 10).
 
 ## Academic Experience
-- 2023.06 - 2024.09, Research Assistant, Supervisor: Lin Wang<a href="https://scholar.google.com/citations?user=SReb2csAAAAJ&hl=zh-CN">
+- 2023.06 - 2024.09, Research Assistant, Supervisor: <a href="https://scholar.google.com/citations?user=SReb2csAAAAJ&hl=zh-CN">Lin Wang
 
 ## Education Experience
 - 2020.06 - 2023.06, M.E., Optical Engineering, UESTC, China
