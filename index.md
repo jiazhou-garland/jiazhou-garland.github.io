@@ -14,7 +14,7 @@ Hi! I am Jiazhou Zhou (周佳舟), a PhD student (2024.09,--) of <a href="https:
 
 ## Academic Experience
 - 2023.06 - 2024.09, Research Assistant, Supervisor: <a href="https://scholar.google.com/citations?user=SReb2csAAAAJ&hl=zh-CN">Lin Wang</a> </br>
-   Research area: Event-based vision and Multi-modal learning.
+   Research area: Event-based vision and Multi-modal learning
   
 ## Education Experience
 - 2020.06 - 2023.06, M.E., Optical Engineering, UESTC, China
