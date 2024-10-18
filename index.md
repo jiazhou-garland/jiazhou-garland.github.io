@@ -13,7 +13,7 @@ Hi! I am a PhD student (2024.09,--) of <a href="https://www.hkust-gz.edu.cn/"> T
 {% include_relative _includes/projects.md %}
 
 ## Academic Experience
-- 2023.06 - 2024.09, Research Assistant, Supervisor: <a href="https://scholar.google.com/citations?user=SReb2csAAAAJ&hl=zh-CN">Lin Wang</a>
+- 2023.06 - 2024.09, Research Assistant, Supervisor: <a href="https://scholar.google.com/citations?user=SReb2csAAAAJ&hl=zh-CN">Lin Wang</a> </br>
    Research area: Event-based vision and Multi-modal learning.
   
 ## Education Experience
