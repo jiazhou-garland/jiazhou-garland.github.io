@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi! I am Jiazhou Zhou (周佳舟), a PhD student (2024.09,--) of <a href="https://www.hkust-gz.edu.cn/"> The Hong Kong University of Science and Technology (Guangzhou)</a>. I am co-supervised by <a href="https://www.leizhang.org/">Prof. Lei Zhang</a> and <a href="https://www.yingcong.me/">Prof. Yingcong Chen</a>. Currently, I am having a long-term research internship at <a href="https://www.idea.edu.cn/">International Digital Economy Academy, IDEA</a>.
+Hi! I am Jiazhou Zhou (周佳舟), a PhD student (2024.09,--) of <a href="https://www.hkust-gz.edu.cn/"> The Hong Kong University of Science and Technology (Guangzhou)</a>. I am fortunate to be co-supervised by <a href="https://www.leizhang.org/">Prof. Lei Zhang</a> and <a href="https://www.yingcong.me/">Prof. Yingcong Chen</a>. Currently, I am having a long-term research internship at <a href="https://www.idea.edu.cn/">International Digital Economy Academy, IDEA</a>.
 
  <!-- Currently, I am interested in Computer Vision and Multi-modal learning.
  Hi! I am a PhD student who will be enrolled this year and supervised by <a href="https://vlislab22.github.io/vlislab/linwang.html">Prof. Lin Wang</a> at <a href="https://vlislab22.github.io/vlislab/">VLISLab</a>, <a href="https://www.hkust-gz.edu.cn/">The Hong Kong University of Science and Technology (Guangzhou)</a> and <a href="https://www.leizhang.org/">Prof. Lei Zhang</a> at <a href="https://www.idea.edu.cn/">International Digital Economy Academy, IDEA</a>. Currently, I am interested in Event-based vision and Multi-modal learning.
