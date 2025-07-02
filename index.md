@@ -24,7 +24,7 @@ Hi! I am Jiazhou Zhou (周佳舟), a PhD student (2024.09,--) at <a href="https:
   - UFUG2102, Matric Algebra and Appplications, HKUST(GZ), 2025.6-2025.7
   - CMAA6102 Computational Media and Arts Program Seminar, HKUST(GZ), 2024.9-2025.5
  
- ## Education Experience
+## Education Experience
 - 2020.06 - 2023.06, M.E., Optical Engineering, <a href="https://www.uestc.edu.cn/">UESTC</a>, China
 - 2016.09 - 2020.06, B.E., Electronic Science and Technology, <a href="https://www.uestc.edu.cn/">UESTC</a>, China
 - 2019.02 - 2019.07, Exchange semester, Karlsruhe University of Applied Sciences, German
