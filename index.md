@@ -19,7 +19,7 @@ Hi! I am Jiazhou Zhou (周佳舟), a PhD student (2024.09,--) at <a href="https:
 ## Professional Services
 - Reviewer：
   - Conferences: CVPR, ECCV, ICCV, NeurIPS, WACV
-  - Journals: TNNLS, TITS
+  - Journals: IEEE Transactions on Neural Networks and Learning Systems(TNNLS), lEEE Transactions on Intelligent Transportation Systems(TITS)
 - Teaching Assistant：
   - UFUG2102, Matric Algebra and Appplications, HKUST(GZ), 2025.6-2025.7
   - CMAA6102 Computational Media and Arts Program Seminar, HKUST(GZ), 2024.9-2025.5
