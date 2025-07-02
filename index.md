@@ -28,11 +28,11 @@ Hi! I am Jiazhou Zhou (周佳舟), a PhD student (2024.09,--) at <a href="https:
 - 2018.08, National University Mathematical Modeling Competition(Top 10).
 
 ## Professional Services
-- Teaching Assistant
--- UFUG2102, Matric Algebra and Appplications, HKUST(GZ), 2025.6-2025.7
--- CMAA6102 Computational Media and Arts Program Seminar, HKUST(GZ), 2024.9-2025.5
-- Reviwer
--- Conferences: CVPR, ECCV, ICCV, NeurIPS, WACV
--- Journals: TNNLS, TITS
+- Teaching Assistant：
+ - UFUG2102, Matric Algebra and Appplications, HKUST(GZ), 2025.6-2025.7
+ - CMAA6102 Computational Media and Arts Program Seminar, HKUST(GZ), 2024.9-2025.5
+- Reviwer：
+  - Conferences: CVPR, ECCV, ICCV, NeurIPS, WACV
+  - Journals: TNNLS, TITS
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=000000&w=500&t=m&d=3LGrgmyYI_ZwG_L9hAge87EruQozTUiUfLqacVMTNd0&co=ffffff&cmo=c42e2e&cmn=82d482&ct=000000'></script>
