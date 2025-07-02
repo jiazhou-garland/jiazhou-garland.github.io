@@ -15,8 +15,16 @@ Hi! I am Jiazhou Zhou (周佳舟), a PhD student (2024.09,--) at <a href="https:
 ## Academic Experience
 - 2023.06 - 2024.09, Research Assistant, Supervisor: <a href="https://scholar.google.com/citations?user=SReb2csAAAAJ&hl=zh-CN">Lin Wang</a> 
  <br>Research area: Event-based vision and Multi-modal learning
-  
-## Education Experience
+
+## Professional Services
+- Reviewer：
+  - Conferences: CVPR, ECCV, ICCV, NeurIPS, WACV
+  - Journals: TNNLS, TITS
+- Teaching Assistant：
+  - UFUG2102, Matric Algebra and Appplications, HKUST(GZ), 2025.6-2025.7
+  - CMAA6102 Computational Media and Arts Program Seminar, HKUST(GZ), 2024.9-2025.5
+ 
+ ## Education Experience
 - 2020.06 - 2023.06, M.E., Optical Engineering, <a href="https://www.uestc.edu.cn/">UESTC</a>, China
 - 2016.09 - 2020.06, B.E., Electronic Science and Technology, <a href="https://www.uestc.edu.cn/">UESTC</a>, China
 - 2019.02 - 2019.07, Exchange semester, Karlsruhe University of Applied Sciences, German
@@ -26,13 +34,5 @@ Hi! I am Jiazhou Zhou (周佳舟), a PhD student (2024.09,--) at <a href="https:
 - 2022.06, Finalist Prize of Image Denoising Track (Top1.5%), ZTE Algorithm Competition.
 - 2018.10, Outstanding Undergraduate International Exchange Program Scholarship(Top 2), CSC. 
 - 2018.08, National University Mathematical Modeling Competition(Top 10).
-
-## Professional Services
-- Teaching Assistant：
- - UFUG2102, Matric Algebra and Appplications, HKUST(GZ), 2025.6-2025.7
- - CMAA6102 Computational Media and Arts Program Seminar, HKUST(GZ), 2024.9-2025.5
-- Reviwer：
-  - Conferences: CVPR, ECCV, ICCV, NeurIPS, WACV
-  - Journals: TNNLS, TITS
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=000000&w=500&t=m&d=3LGrgmyYI_ZwG_L9hAge87EruQozTUiUfLqacVMTNd0&co=ffffff&cmo=c42e2e&cmn=82d482&ct=000000'></script>
