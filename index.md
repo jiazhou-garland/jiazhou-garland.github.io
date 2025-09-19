@@ -10,7 +10,7 @@ Hi! I am Jiazhou Zhou (周佳舟), a PhD student (2024.09,--) at <a href="https:
  Hi! I am a PhD student who will be enrolled this year and supervised by <a href="https://vlislab22.github.io/vlislab/linwang.html">Prof. Lin Wang</a> at <a href="https://vlislab22.github.io/vlislab/">VLISLab</a>, <a href="https://www.hkust-gz.edu.cn/">The Hong Kong University of Science and Technology (Guangzhou)</a> and <a href="https://www.leizhang.org/">Prof. Lei Zhang</a> at <a href="https://www.idea.edu.cn/">International Digital Economy Academy, IDEA</a>. Currently, I am interested in Event-based vision and Multi-modal learning.
  Prior to HKUST(GZ), I obtained my B. Eng. and M. Eng. major in Electronic Science and Technology and Optical Engineering from the <a href="https://www.uestc.edu.cn/">University of Electronic Science and Technology of China (UESTC)</a> respectively, supervised by <a href="https://sose.uestc.edu.cn/info/1022/1981.htm">Prof. Ping Zhang</a>, where I focused on Semantic Segmentation and Instance Segmentation.-->
 
-{% include_relative _includes/projects.md %}
+{% include projects.md %}
 
 ## Academic Experience
 - 2023.06 - 2024.09, Research Assistant, Supervisor: <a href="https://scholar.google.com/citations?user=SReb2csAAAAJ&hl=zh-CN">Lin Wang</a> 
