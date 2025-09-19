@@ -17,12 +17,12 @@ Hi! I am Jiazhou Zhou (周佳舟), a PhD student (2024.09,--) at <a href="https:
  <br>Research area: Event-based vision and Multi-modal learning
 
 ## Professional Services
-- Reviewer：
-  - Conferences: CVPR, ECCV, ICCV, NeurIPS, WACV
-  - Journals: IEEE Transactions on Neural Networks and Learning Systems(TNNLS), lEEE Transactions on Intelligent Transportation Systems(TITS)
-- Teaching Assistant：
-  - UFUG2102, Matric Algebra and Appplications, HKUST(GZ), 2025.6-2025.7
-  - CMAA6102 Computational Media and Arts Program Seminar, HKUST(GZ), 2024.9-2025.5
+- Reviewer:
+  - Conferences: CVPR, ECCV, ICCV, NeurIPS, WACV, AAAI
+  - Journals: IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Intelligent Transportation Systems (TITS)
+- Teaching Assistant:
+  - UFUG2102, Matrix Algebra and Applications, HKUST(GZ), 2025.6-2025.7
+  - CMAA6102, Computational Media and Arts Program Seminar, HKUST(GZ), 2024.9-2025.5
  
 ## Education Experience
 - 2020.06 - 2023.06, M.E., Optical Engineering, <a href="https://www.uestc.edu.cn/">UESTC</a>, China
