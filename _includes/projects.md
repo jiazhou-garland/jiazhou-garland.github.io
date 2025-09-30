@@ -17,7 +17,7 @@ Selected publications. Please refer to my <a href="https://scholar.google.com/ci
     <div class="author"><strong>Jiazhou Zhou</strong>, Kanghao Chen, Lei Zhang, Lin Wang</div>
     <div class="periodical"><em>The Thirty-Ninth Annual Conference on Neural Information Processing Systems <strong>NeurIPS</strong>, 2025.</em></div>
     <div class="links">
-      <a href="https://vlislab22.github.io/pastssm/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>  
+      <a href="https://jiazhou-garland.github.io/PASS_Homepage/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>  
       <a href="https://arxiv.org/pdf/2409.16953" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/jiazhou-garland/PASS" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> 
     </div>
