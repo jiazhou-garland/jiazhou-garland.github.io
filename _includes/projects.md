@@ -18,7 +18,7 @@ Selected publications. Please refer to my <a href="https://scholar.google.com/ci
   Detection</a></div>
     <div class="author"><strong>Jiazhou Zhou</strong>, Qing Jiang, Kanghao Chen, Lutao Jiang, Yuanhuiyi Lyu,
   Ying-Cong Chen, Lei Zhang</div>
-    <div class="periodical"><em>The 40th Annual AAAI Conference on Artificial Intelligence <strong>AAAI</strong>, 2026.</em></div>
+    <div class="periodical"><em>The 40th Annual AAAI Conference on Artificial Intelligence, <strong>AAAI</strong>, 2026.</em></div>
     <div class="links">
       <!-- <a href="https://jiazhou-garland.github.io/PASS_Homepage/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>   -->
       <a href="https://arxiv.org/html/2511.08997v1" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -41,7 +41,7 @@ Selected publications. Please refer to my <a href="https://scholar.google.com/ci
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2409.16953">PASS: Path-selective State Space Model for Event-based Recognition</a></div>
     <div class="author"><strong>Jiazhou Zhou</strong>, Kanghao Chen, Lei Zhang, Lin Wang</div>
-    <div class="periodical"><em>The Thirty-Ninth Annual Conference on Neural Information Processing Systems <strong>NeurIPS</strong>, 2025.</em></div>
+    <div class="periodical"><em>The Thirty-Ninth Annual Conference on Neural Information Processing Systems, <strong>NeurIPS</strong>, 2025.</em></div>
     <div class="links">
       <a href="https://jiazhou-garland.github.io/PASS_Homepage/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>  
       <a href="https://arxiv.org/pdf/2409.16953" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -65,7 +65,7 @@ Selected publications. Please refer to my <a href="https://scholar.google.com/ci
         <a href="https://arxiv.org/pdf/2308.03135">EventBind: Learning a Unified Representation to Bind Them All for Event-based Open-world Understanding</a>  
       </div>  
       <div class="author"><strong>Jiazhou Zhou</strong>, Xu Zheng, Yuanhuiyi Lyu, Lin Wang</div>  
-      <div class="periodical"><em>European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.</em></div>  
+      <div class="periodical"><em>European Conference on Computer Vision, <strong>ECCV</strong>, 2024.</em></div>  
       <div class="links">  
         <a href="https://vlislab22.github.io/EventBind/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>  
         <a href="https://arxiv.org/pdf/2308.03135.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>  
@@ -74,34 +74,6 @@ Selected publications. Please refer to my <a href="https://scholar.google.com/ci
   </div>
 </div>
 </li>
-
-
-
-<!-- 
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/exact.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ECCV 2024</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title">  
-        <a href="https://arxiv.org/pdf/2407.11344">Centering the Value of Every Modality: Towards Efficient and Resilient Modality-agnostic Semantic Segmentation</a>  
-      </div>  
-      <div class="author">Xu Zheng, Yuanhuiyi Lyu, <strong>Jiazhou Zhou</strong>, Lin Wang</div>  
-      <div class="periodical"><em>European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.</em></div>  
-      <div class="links">  
-        <a href="https://vlislab22.github.io/MAGIC/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>  
-        <a href="https://arxiv.org/pdf/2407.11344" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>  
-      </div>  
-  </div>
-</div>
-</li>
--->
-
-
 
 
 <li>
@@ -117,7 +89,7 @@ Selected publications. Please refer to my <a href="https://scholar.google.com/ci
         <a href="https://arxiv.org/pdf/2403.12534.pdf">ExACT: Language-guided Conceptual Reasoning and Uncertainty Estimation for Event-based Action Recognition and More</a>  
       </div>  
       <div class="author"><strong>Jiazhou Zhou</strong>, Xu Zheng,Yuanhuiyi Lyu, Lin Wang</div>  
-      <div class="periodical"><em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR) <span style="color: red;">Highlight (2.8%)</span></strong>, 2024.</em></div>  
+      <div class="periodical"><em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition, <strong>CVPR <span style="color: red;">Highlight (2.8%)</span></strong>, 2024.</em></div>  
       <div class="links">  
         <a href="https://vlislab22.github.io/ExACT/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>  
         <a href="https://arxiv.org/pdf/2403.12534.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>  
@@ -151,77 +123,7 @@ Selected publications. Please refer to my <a href="https://scholar.google.com/ci
   </div>
 </div>
 </li>
---> 
-
-<!-- 
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/e2v.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">NeurIPS 2024</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title">  
-        <a href="https://arxiv.org/pdf/2407.05547">LaSe-E2V: Towards Language-guided Semantic-Aware Event-to-Video Reconstruction</a>  
-      </div>  
-    <div class="author">Kanghao Chen, Hangyu Li, <strong>Jiazhou Zhou</strong>, Zeyu Wang, Lin Wang</div>
-    <div class="periodical"><em>NeurIPS 2024, the Thirty-Eighth Annual Conference on Neural Information Processing Systems.</em></div>
-      <div class="links">  
-        <a href="https://vlislab22.github.io/LaSe-E2V/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>  
-        <a href="https://arxiv.org/abs/2407.05547" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>  
-      </div>  
-  </div>
-</div>
-</li>
 -->
-
-<!-- <li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/EIT-1M.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2407.01884">EIT-1M: One Million EEG-Image-Text Pairs for Human Visual-textual
-Recognition and More</a></div>
-    <div class="author">Xu Zheng, Ling Wang, Kanghao Chen, Yuanhuiyi Lyu, <strong>Jiazhou Zhou</strong>, Lin Wang</div>
-    <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, 2024.</em></div>
-    <div class="links">
-      <a href="https://arxiv.org/pdf/2407.01884" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    </div>
-  </div>
-</div>
-</li> -->
-
-
-
-<!-- <li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/EIT-1M.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2407.01884">EIT-1M: One Million EEG-Image-Text Pairs for Human Visual-textual
-Recognition and More</a></div>
-    <div class="author">Xu Zheng, Ling Wang, Kanghao Chen, Yuanhuiyi Lyu, <strong>Jiazhou Zhou</strong>, Lin Wang</div>
-    <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, 2024.</em></div>
-    <div class="links">
-      <a href="https://arxiv.org/pdf/2407.01884" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    </div>
-  </div>
-</div>
-</li>
--->
-
-
-
 
 
 <br>
