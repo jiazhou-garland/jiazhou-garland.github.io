@@ -13,8 +13,8 @@ Hi! I am Jiazhou Zhou (周佳舟), a PhD student (2024.09,--) at <a href="https:
 {% include projects.md %}
 
 ## Internships
-- [2025.08 - Present]: **CVR Group**, International Digital Economy Academy, IDEA
-- [2023.06 - 2024.09]: **VLIS Lab**, The Hong Kong University of Science and Technology
+- \[2025.08 - Present\]: **CVR Group**, International Digital Economy Academy, IDEA
+- \[2023.06 - 2024.09\]: **VLIS Lab**, The Hong Kong University of Science and Technology
   - Supervisor: Lin Wang
 
 ## Services
@@ -26,10 +26,10 @@ Hi! I am Jiazhou Zhou (周佳舟), a PhD student (2024.09,--) at <a href="https:
   - CMAA6102, Computational Media and Arts Program Seminar, HKUST(GZ), 2024.9-2025.5
  
 ## Educations
-- [2020.06 - 2023.06]: M.E., Optical Engineering, <a href="https://www.uestc.edu.cn/">UESTC</a>, China
-- [2016.09 - 2020.06]: B.E., Electronic Science and Technology, <a href="https://www.uestc.edu.cn/">UESTC</a>, China
-- [2019.02 - 2019.07]: Exchange semester, Karlsruhe University of Applied Sciences, German
-- [2013.09 - 2016.06]: H.S., <a href="http://www.hnfms.com.cn/">The First High School of Changsha</a>, Changsha, China
+- \[2020.06 - 2023.06\]: M.E., Optical Engineering, <a href="https://www.uestc.edu.cn/">UESTC</a>, China
+- \[2016.09 - 2020.06\]: B.E., Electronic Science and Technology, <a href="https://www.uestc.edu.cn/">UESTC</a>, China
+- \[2019.02 - 2019.07\]: Exchange semester, Karlsruhe University of Applied Sciences, German
+- \[2013.09 - 2016.06\]: H.S., <a href="http://www.hnfms.com.cn/">The First High School of Changsha</a>, Changsha, China
 
 <!-- ## Honors and Awards
 - 2022.06, Finalist Prize of Image Denoising Track (Top1.5%), ZTE Algorithm Competition.
