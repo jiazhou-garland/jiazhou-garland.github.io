@@ -12,11 +12,12 @@ Hi! I am Jiazhou Zhou (周佳舟), a PhD student (2024.09,--) at <a href="https:
 
 {% include projects.md %}
 
-## Academic Experience
-- 2023.06 - 2024.09, Research Assistant, Supervisor: <a href="https://scholar.google.com/citations?user=SReb2csAAAAJ&hl=zh-CN">Lin Wang</a> 
- <br>Research area: Event-based vision and Multi-modal learning
+## Internships
+- [2025.08 - Present], CVR Group, International Digital Economy Academy, IDEA
+- [2023.06 - 2024.09], VLIS Lab, The Hong Kong University of Science and Technology
+  - Supervisor: Lin Wang
 
-## Professional Services
+## Services
 - Reviewer:
   - Conferences: CVPR, ECCV, ICCV, NeurIPS, WACV, AAAI
   - Journals: IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Intelligent Transportation Systems (TITS)
@@ -24,7 +25,7 @@ Hi! I am Jiazhou Zhou (周佳舟), a PhD student (2024.09,--) at <a href="https:
   - UFUG2102, Matrix Algebra and Applications, HKUST(GZ), 2025.6-2025.7
   - CMAA6102, Computational Media and Arts Program Seminar, HKUST(GZ), 2024.9-2025.5
  
-## Education Experience
+## Educations
 - 2020.06 - 2023.06, M.E., Optical Engineering, <a href="https://www.uestc.edu.cn/">UESTC</a>, China
 - 2016.09 - 2020.06, B.E., Electronic Science and Technology, <a href="https://www.uestc.edu.cn/">UESTC</a>, China
 - 2019.02 - 2019.07, Exchange semester, Karlsruhe University of Applied Sciences, German
