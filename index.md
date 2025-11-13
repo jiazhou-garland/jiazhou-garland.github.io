@@ -13,8 +13,8 @@ Hi! I am Jiazhou Zhou (周佳舟), a PhD student (2024.09,--) at <a href="https:
 {% include projects.md %}
 
 ## Internships
-- [2025.08 - Present]: CVR Group, International Digital Economy Academy, IDEA
-- [2023.06 - 2024.09]: VLIS Lab, The Hong Kong University of Science and Technology
+- [2025.08 - Present]: **CVR Group**, International Digital Economy Academy, IDEA
+- [2023.06 - 2024.09]: **VLIS Lab**, The Hong Kong University of Science and Technology
   - Supervisor: Lin Wang
 
 ## Services
