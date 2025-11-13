@@ -4,6 +4,32 @@
 <ol class="bibliography">
 
 Selected publications. Please refer to my <a href="https://scholar.google.com/citations?user=JQnsB8MAAAAJ&hl=en">Google Scholar</a> for a full paper list.
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/T-Rex-Omni.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">NeurIPS 2025</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2409.16953">T-Rex-Omni: Integrating Negative Visual Prompt in Generic Object
+  Detection</a></div>
+    <div class="author"><strong>Jiazhou Zhou</strong>, Qing Jiang, Kanghao Chen, Lutao Jiang, Yuanhuiyi Lyu,
+  Ying-Cong Chen, Lei Zhang</div>
+    <div class="periodical"><em>The 40th Annual AAAI Conference on Artificial Intelligence <strong>AAAI</strong>, 2026.</em></div>
+    <div class="links">
+      <!-- <a href="https://jiazhou-garland.github.io/PASS_Homepage/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>   -->
+      <a href="https://arxiv.org/html/2511.08997v1" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- <a href="https://github.com/jiazhou-garland/PASS" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>  -->
+    </div>
+  </div>
+</div>
+</li>
+
+
+
 <li>
 <div class="pub-row">
 
