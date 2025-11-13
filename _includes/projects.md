@@ -10,7 +10,7 @@ Selected publications. Please refer to my <a href="https://scholar.google.com/ci
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/T-Rex-Omni.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">NeurIPS 2025</abbr>
+    <abbr class="badge">AAAI 2026</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
