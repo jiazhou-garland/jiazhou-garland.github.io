@@ -5,6 +5,28 @@
 
 Selected publications. Please refer to my <a href="https://scholar.google.com/citations?user=JQnsB8MAAAAJ&hl=en">Google Scholar</a> for a full paper list.
 
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/V-Reflection.png" class="teaser img-fluid z-depth-1" alt="V-Reflection">
+    <abbr class="badge">Preprint</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://idea-research.github.io/V-Reflection/">V-Reflection: Transforming MLLMs from Passive Observers to Active Interrogators</a></div>
+    <div class="author"><strong>Jiazhou Zhou</strong> et al.</div>
+    <div class="periodical"><em>International Digital Economy Academy, <strong>IDEA Research</strong>.</em></div>
+    <div class="links">
+      <a href="https://idea-research.github.io/V-Reflection/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
+      <a href="https://github.com/IDEA-Research/V-Reflection" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://huggingface.co/garlandchou/V-Reflection" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Model</a>
+    </div>
+  </div>
+</div>
+</li>
+
 <li>
 <div class="pub-row">
 
@@ -20,14 +42,34 @@ Selected publications. Please refer to my <a href="https://scholar.google.com/ci
   Ying-Cong Chen, Lei Zhang</div>
     <div class="periodical"><em>The 40th Annual AAAI Conference on Artificial Intelligence, <strong>AAAI</strong>, 2026.</em></div>
     <div class="links">
-      <!-- <a href="https://jiazhou-garland.github.io/PASS_Homepage/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>   -->
       <a href="https://arxiv.org/html/2511.08997v1" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <!-- <a href="https://github.com/jiazhou-garland/PASS" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>  -->
     </div>
   </div>
 </div>
 </li>
 
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/unibind.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">CVPR 2024</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title">  
+        <a href="https://arxiv.org/pdf/2403.12532.pdf">UniBind: LLM-Augmented Unified and Balanced Representation Space to Bind Them All</a>  
+      </div>  
+      <div class="author">Yuanhuiyi Lyu, Xu Zheng, <strong>Jiazhou Zhou</strong>, Lin Wang</div>  
+      <div class="periodical"><em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.</em></div>  
+      <div class="links">  
+        <a href="https://vlislab22.github.io/UniBind/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>  
+        <a href="https://arxiv.org/pdf/2403.12532.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>  
+        <a href="https://github.com/QC-LY/UniBind" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>  
+      </div>  
+  </div>
+</div>
+</li>
 
 
 <li>
@@ -98,33 +140,6 @@ Selected publications. Please refer to my <a href="https://scholar.google.com/ci
   </div>
 </div>
 </li>
-
-
-<!-- 
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/unibind.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">CVPR 2024</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title">  
-        <a href="https://arxiv.org/pdf/2403.12532.pdf">UniBind: LLM-Augmented Unified and Balanced Representation Space to Bind Them All</a>  
-      </div>  
-      <div class="author">Yuanhuiyi Lyu, Xu Zheng, <strong>Jiazhou Zhou</strong>, Lin Wang</div>  
-      <div class="periodical"><em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.</em></div>  
-      <div class="links">  
-        <a href="https://vlislab22.github.io/UniBind/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>  
-        <a href="https://arxiv.org/pdf/2403.12532.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>  
-        <a href="https://github.com/QC-LY/UniBind" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>  
-      </div>  
-  </div>
-</div>
-</li>
--->
-
 
 <br>
 
