@@ -5,6 +5,7 @@
 
 Selected publications. Please refer to my <a href="https://scholar.google.com/citations?user=JQnsB8MAAAAJ&hl=en">Google Scholar</a> for a full paper list.
 
+<div class="pub-section-label">Multimodal &amp; Grounding</div>
 
 <li>
 <div class="pub-row">
@@ -17,11 +18,16 @@ Selected publications. Please refer to my <a href="https://scholar.google.com/ci
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://idea-research.github.io/V-Reflection/">V-Reflection: Transforming MLLMs from Passive Observers to Active Interrogators</a></div>
     <div class="author"><strong>Jiazhou Zhou</strong> et al.</div>
-    <div class="periodical"><em>International Digital Economy Academy, <strong>IDEA Research</strong>.</em></div>
+    <div class="periodical"><em>Under review.</em></div>
     <div class="links">
       <a href="https://idea-research.github.io/V-Reflection/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
       <a href="https://github.com/IDEA-Research/V-Reflection" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://huggingface.co/garlandchou/V-Reflection" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Model</a>
+      <a href="https://huggingface.co/garlandchou/V-Reflection" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Hugging Face</a>
+    </div>
+    <div class="paper-tags">
+      <span class="paper-tag">MLLM</span>
+      <span class="paper-tag">Visual Reasoning</span>
+      <span class="paper-tag">Latent Probing</span>
     </div>
   </div>
 </div>
@@ -36,13 +42,16 @@ Selected publications. Please refer to my <a href="https://scholar.google.com/ci
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2409.16953">T-Rex-Omni: Integrating Negative Visual Prompt in Generic Object
-  Detection</a></div>
-    <div class="author"><strong>Jiazhou Zhou</strong>, Qing Jiang, Kanghao Chen, Lutao Jiang, Yuanhuiyi Lyu,
-  Ying-Cong Chen, Lei Zhang</div>
+    <div class="title"><a href="https://arxiv.org/pdf/2409.16953">T-Rex-Omni: Integrating Negative Visual Prompt in Generic Object Detection</a></div>
+    <div class="author"><strong>Jiazhou Zhou</strong>, Qing Jiang, Kanghao Chen, Lutao Jiang, Yuanhuiyi Lyu, Ying-Cong Chen, Lei Zhang</div>
     <div class="periodical"><em>The 40th Annual AAAI Conference on Artificial Intelligence, <strong>AAAI</strong>, 2026.</em></div>
     <div class="links">
       <a href="https://arxiv.org/html/2511.08997v1" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+    <div class="paper-tags">
+      <span class="paper-tag">Object Detection</span>
+      <span class="paper-tag">Visual Prompt</span>
+      <span class="paper-tag">Grounding</span>
     </div>
   </div>
 </div>
@@ -57,20 +66,26 @@ Selected publications. Please refer to my <a href="https://scholar.google.com/ci
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title">  
-        <a href="https://arxiv.org/pdf/2403.12532.pdf">UniBind: LLM-Augmented Unified and Balanced Representation Space to Bind Them All</a>  
-      </div>  
-      <div class="author">Yuanhuiyi Lyu, Xu Zheng, <strong>Jiazhou Zhou</strong>, Lin Wang</div>  
-      <div class="periodical"><em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.</em></div>  
-      <div class="links">  
-        <a href="https://vlislab22.github.io/UniBind/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>  
-        <a href="https://arxiv.org/pdf/2403.12532.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>  
-        <a href="https://github.com/QC-LY/UniBind" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>  
-      </div>  
+    <div class="title">
+      <a href="https://arxiv.org/pdf/2403.12532.pdf">UniBind: LLM-Augmented Unified and Balanced Representation Space to Bind Them All</a>
+    </div>
+    <div class="author">Yuanhuiyi Lyu, Xu Zheng, <strong>Jiazhou Zhou</strong>, Lin Wang</div>
+    <div class="periodical"><em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.</em></div>
+    <div class="links">
+      <a href="https://vlislab22.github.io/UniBind/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
+      <a href="https://arxiv.org/pdf/2403.12532.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/QC-LY/UniBind" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+    <div class="paper-tags">
+      <span class="paper-tag">Multimodal</span>
+      <span class="paper-tag">Representation</span>
+      <span class="paper-tag">LLM</span>
+    </div>
   </div>
 </div>
 </li>
 
+<div class="pub-section-label">Event-based Vision</div>
 
 <li>
 <div class="pub-row">
@@ -85,14 +100,18 @@ Selected publications. Please refer to my <a href="https://scholar.google.com/ci
     <div class="author"><strong>Jiazhou Zhou</strong>, Kanghao Chen, Lei Zhang, Lin Wang</div>
     <div class="periodical"><em>The Thirty-Ninth Annual Conference on Neural Information Processing Systems, <strong>NeurIPS</strong>, 2025.</em></div>
     <div class="links">
-      <a href="https://jiazhou-garland.github.io/PASS_Homepage/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>  
+      <a href="https://jiazhou-garland.github.io/PASS_Homepage/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
       <a href="https://arxiv.org/pdf/2409.16953" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/jiazhou-garland/PASS" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> 
+      <a href="https://github.com/jiazhou-garland/PASS" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+    <div class="paper-tags">
+      <span class="paper-tag">Event Camera</span>
+      <span class="paper-tag">State Space Model</span>
+      <span class="paper-tag">Recognition</span>
     </div>
   </div>
 </div>
 </li>
-
 
 <li>
 <div class="pub-row">
@@ -103,20 +122,24 @@ Selected publications. Please refer to my <a href="https://scholar.google.com/ci
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title">  
-        <a href="https://arxiv.org/pdf/2308.03135">EventBind: Learning a Unified Representation to Bind Them All for Event-based Open-world Understanding</a>  
-      </div>  
-      <div class="author"><strong>Jiazhou Zhou</strong>, Xu Zheng, Yuanhuiyi Lyu, Lin Wang</div>  
-      <div class="periodical"><em>European Conference on Computer Vision, <strong>ECCV</strong>, 2024.</em></div>  
-      <div class="links">  
-        <a href="https://vlislab22.github.io/EventBind/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>  
-        <a href="https://arxiv.org/pdf/2308.03135.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>  
-        <a href="https://github.com/jiazhou-garland/EventBind" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>  
-      </div>  
+    <div class="title">
+      <a href="https://arxiv.org/pdf/2308.03135">EventBind: Learning a Unified Representation to Bind Them All for Event-based Open-world Understanding</a>
+    </div>
+    <div class="author"><strong>Jiazhou Zhou</strong>, Xu Zheng, Yuanhuiyi Lyu, Lin Wang</div>
+    <div class="periodical"><em>European Conference on Computer Vision, <strong>ECCV</strong>, 2024.</em></div>
+    <div class="links">
+      <a href="https://vlislab22.github.io/EventBind/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
+      <a href="https://arxiv.org/pdf/2308.03135.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/jiazhou-garland/EventBind" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+    <div class="paper-tags">
+      <span class="paper-tag">Event Camera</span>
+      <span class="paper-tag">Open-world</span>
+      <span class="paper-tag">CLIP</span>
+    </div>
   </div>
 </div>
 </li>
-
 
 <li>
 <div class="pub-row">
@@ -127,16 +150,21 @@ Selected publications. Please refer to my <a href="https://scholar.google.com/ci
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title">  
-        <a href="https://arxiv.org/pdf/2403.12534.pdf">ExACT: Language-guided Conceptual Reasoning and Uncertainty Estimation for Event-based Action Recognition and More</a>  
-      </div>  
-      <div class="author"><strong>Jiazhou Zhou</strong>, Xu Zheng,Yuanhuiyi Lyu, Lin Wang</div>  
-      <div class="periodical"><em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition, <strong>CVPR <span style="color: red;">Highlight (2.8%)</span></strong>, 2024.</em></div>  
-      <div class="links">  
-        <a href="https://vlislab22.github.io/ExACT/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>  
-        <a href="https://arxiv.org/pdf/2403.12534.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>  
-        <a href="https://github.com/jiazhou-garland/ExACT" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>  
-      </div>  
+    <div class="title">
+      <a href="https://arxiv.org/pdf/2403.12534.pdf">ExACT: Language-guided Conceptual Reasoning and Uncertainty Estimation for Event-based Action Recognition and More</a>
+    </div>
+    <div class="author"><strong>Jiazhou Zhou</strong>, Xu Zheng, Yuanhuiyi Lyu, Lin Wang</div>
+    <div class="periodical"><em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition, <strong>CVPR <span style="color: red;">Highlight (2.8%)</span></strong>, 2024.</em></div>
+    <div class="links">
+      <a href="https://vlislab22.github.io/ExACT/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
+      <a href="https://arxiv.org/pdf/2403.12534.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/jiazhou-garland/ExACT" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+    <div class="paper-tags">
+      <span class="paper-tag">Event Camera</span>
+      <span class="paper-tag">Action Recognition</span>
+      <span class="paper-tag">Uncertainty</span>
+    </div>
   </div>
 </div>
 </li>
@@ -145,4 +173,3 @@ Selected publications. Please refer to my <a href="https://scholar.google.com/ci
 
 </ol>
 </div>
-

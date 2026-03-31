@@ -213,3 +213,39 @@ screen and (min-width: 480px) {
   margin-bottom: 5px;
   object-fit: cover;
 }
+
+/* Section divider label */
+.pub-section-label {
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--global-text-color-light);
+  border-bottom: 1px solid #e0e0e0;
+  padding-bottom: 4px;
+  margin: 2rem 0 1.2rem;
+}
+
+/* Pill tags */
+.paper-tags {
+  margin-top: 6px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+}
+
+.paper-tag {
+  display: inline-block;
+  font-size: 10.5px;
+  font-weight: 500;
+  padding: 2px 9px;
+  border-radius: 20px;
+  background: #f0f0f0;
+  color: #555;
+  letter-spacing: 0.02em;
+}
+
+@media (prefers-color-scheme: dark) {
+  .paper-tag { background: #2a2a2a; color: #bbb; }
+  .pub-section-label { border-color: #3a3a3a; }
+}
