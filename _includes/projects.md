@@ -26,8 +26,8 @@ Selected publications. Please refer to my <a href="https://scholar.google.com/ci
     </div>
     <div class="paper-tags">
       <span class="paper-tag">MLLM</span>
-      <span class="paper-tag">Visual Reasoning</span>
-      <span class="paper-tag">Latent Probing</span>
+      <span class="paper-tag">Latent Reasoning</span>
+      <span class="paper-tag">Visual Grounding</span>
     </div>
   </div>
 </div>
@@ -49,9 +49,8 @@ Selected publications. Please refer to my <a href="https://scholar.google.com/ci
       <a href="https://arxiv.org/html/2511.08997v1" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
     <div class="paper-tags">
-      <span class="paper-tag">Object Detection</span>
-      <span class="paper-tag">Visual Prompt</span>
-      <span class="paper-tag">Grounding</span>
+      <span class="paper-tag">Open world Object Detection</span>
+      <span class="paper-tag">Negative Visual Prompt</span>
     </div>
   </div>
 </div>
@@ -77,9 +76,8 @@ Selected publications. Please refer to my <a href="https://scholar.google.com/ci
       <a href="https://github.com/QC-LY/UniBind" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
     <div class="paper-tags">
-      <span class="paper-tag">Multimodal</span>
-      <span class="paper-tag">Representation</span>
-      <span class="paper-tag">LLM</span>
+      <span class="paper-tag">Multimodal Alignment</span>
+      <span class="paper-tag">Representation Learning</span>
     </div>
   </div>
 </div>
