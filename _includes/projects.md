@@ -5,10 +5,10 @@
 
 Selected publications. Please refer to my <a href="https://scholar.google.com/citations?user=JQnsB8MAAAAJ&hl=en">Google Scholar</a> for a full paper list.
 
-<div class="pub-section-label">Multimodal &amp; Grounding</div>
+<div class="pub-section-label mod-multimodal">Multimodal &amp; Grounding</div>
 
 <li>
-<div class="pub-row">
+<div class="pub-row mod-multimodal-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/V-Reflection.png" class="teaser img-fluid z-depth-1" alt="V-Reflection">
@@ -34,7 +34,7 @@ Selected publications. Please refer to my <a href="https://scholar.google.com/ci
 </li>
 
 <li>
-<div class="pub-row">
+<div class="pub-row mod-multimodal-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/T-Rex-Omni.png" class="teaser img-fluid z-depth-1">
@@ -58,7 +58,7 @@ Selected publications. Please refer to my <a href="https://scholar.google.com/ci
 </li>
 
 <li>
-<div class="pub-row">
+<div class="pub-row mod-multimodal-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/unibind.png" class="teaser img-fluid z-depth-1">
@@ -85,10 +85,10 @@ Selected publications. Please refer to my <a href="https://scholar.google.com/ci
 </div>
 </li>
 
-<div class="pub-section-label">Event-based Vision</div>
+<div class="pub-section-label mod-event">Event-based Vision</div>
 
 <li>
-<div class="pub-row">
+<div class="pub-row mod-event-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/PASS.png" class="teaser img-fluid z-depth-1">
@@ -105,16 +105,16 @@ Selected publications. Please refer to my <a href="https://scholar.google.com/ci
       <a href="https://github.com/jiazhou-garland/PASS" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
     <div class="paper-tags">
-      <span class="paper-tag">Event Camera</span>
-      <span class="paper-tag">State Space Model</span>
-      <span class="paper-tag">Recognition</span>
+      <span class="paper-tag tag-event">Event Camera</span>
+      <span class="paper-tag tag-event">State Space Model</span>
+      <span class="paper-tag tag-event">Recognition</span>
     </div>
   </div>
 </div>
 </li>
 
 <li>
-<div class="pub-row">
+<div class="pub-row mod-event-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/EventBind.png" class="teaser img-fluid z-depth-1">
@@ -133,16 +133,16 @@ Selected publications. Please refer to my <a href="https://scholar.google.com/ci
       <a href="https://github.com/jiazhou-garland/EventBind" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
     <div class="paper-tags">
-      <span class="paper-tag">Event Camera</span>
-      <span class="paper-tag">Open-world</span>
-      <span class="paper-tag">CLIP</span>
+      <span class="paper-tag tag-event">Event Camera</span>
+      <span class="paper-tag tag-event">Open-world</span>
+      <span class="paper-tag tag-event">CLIP</span>
     </div>
   </div>
 </div>
 </li>
 
 <li>
-<div class="pub-row">
+<div class="pub-row mod-event-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/exact.png" class="teaser img-fluid z-depth-1">
@@ -161,9 +161,9 @@ Selected publications. Please refer to my <a href="https://scholar.google.com/ci
       <a href="https://github.com/jiazhou-garland/ExACT" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
     <div class="paper-tags">
-      <span class="paper-tag">Event Camera</span>
-      <span class="paper-tag">Action Recognition</span>
-      <span class="paper-tag">Uncertainty</span>
+      <span class="paper-tag tag-event">Event Camera</span>
+      <span class="paper-tag tag-event">Action Recognition</span>
+      <span class="paper-tag tag-event">Uncertainty</span>
     </div>
   </div>
 </div>

@@ -214,38 +214,95 @@ screen and (min-width: 480px) {
   object-fit: cover;
 }
 
-/* Section divider label */
+/* ── Section divider labels ── */
 .pub-section-label {
-  font-size: 0.72rem;
-  font-weight: 600;
-  letter-spacing: 0.12em;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-family: 'Inter', -apple-system, sans-serif;
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.15em;
   text-transform: uppercase;
-  color: var(--global-text-color-light);
-  border-bottom: 1px solid #e0e0e0;
-  padding-bottom: 4px;
-  margin: 2rem 0 1.2rem;
+  margin: 2.4rem 0 0.9rem;
+}
+.pub-section-label::after {
+  content: '';
+  flex: 1;
+  height: 1px;
 }
 
-/* Pill tags */
+/* Module 1: Multimodal & Grounding — blue palette */
+.pub-section-label.mod-multimodal {
+  color: #2563eb;
+}
+.pub-section-label.mod-multimodal::after {
+  background: linear-gradient(90deg, #bfdbfe 0%, transparent 100%);
+}
+
+/* Module 2: Event-based Vision — teal/cyan palette */
+.pub-section-label.mod-event {
+  color: #0891b2;
+}
+.pub-section-label.mod-event::after {
+  background: linear-gradient(90deg, #a5f3fc 0%, transparent 100%);
+}
+
+/* ── Paper entry card left accent stripe ── */
+.pub-row.mod-multimodal-row {
+  border-left: 3px solid #2563eb;
+  border-radius: 0 8px 8px 0;
+}
+.pub-row.mod-event-row {
+  border-left: 3px solid #0891b2;
+  border-radius: 0 8px 8px 0;
+}
+
+/* ── Pill tags ── */
 .paper-tags {
-  margin-top: 6px;
+  margin-top: 8px;
   display: flex;
   flex-wrap: wrap;
   gap: 5px;
 }
 
+/* Default: blue tag (Module 1) */
 .paper-tag {
   display: inline-block;
-  font-size: 10.5px;
+  font-family: 'Inter', -apple-system, sans-serif;
+  font-size: 10px;
   font-weight: 500;
-  padding: 2px 9px;
-  border-radius: 20px;
-  background: #f0f0f0;
-  color: #555;
+  padding: 2px 8px;
+  border-radius: 4px;
+  background: #dbeafe;
+  color: #1e40af;
   letter-spacing: 0.02em;
+  border: 1px solid #bfdbfe;
+  transition: background 0.15s, border-color 0.15s;
+}
+.paper-tag:hover {
+  background: #bfdbfe;
+  border-color: #93c5fd;
+}
+
+/* Teal tag (Module 2) */
+.paper-tag.tag-event {
+  background: #cffafe;
+  color: #0e7490;
+  border-color: #a5f3fc;
+}
+.paper-tag.tag-event:hover {
+  background: #a5f3fc;
+  border-color: #67e8f9;
 }
 
 @media (prefers-color-scheme: dark) {
-  .paper-tag { background: #2a2a2a; color: #bbb; }
-  .pub-section-label { border-color: #3a3a3a; }
+  .paper-tag            { background: #1e3a5f; color: #93c5fd; border-color: #1d4ed8; }
+  .paper-tag:hover      { background: #1d4ed8; }
+  .paper-tag.tag-event  { background: #164e63; color: #67e8f9; border-color: #0e7490; }
+  .paper-tag.tag-event:hover { background: #0e7490; }
+  .pub-section-label.mod-multimodal { color: #60a5fa; }
+  .pub-section-label.mod-event      { color: #22d3ee; }
+  .pub-row.mod-multimodal-row { border-color: #2563eb; }
+  .pub-row.mod-event-row      { border-color: #0891b2; }
 }
