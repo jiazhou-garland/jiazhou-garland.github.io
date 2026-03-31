@@ -47,6 +47,7 @@ Selected publications. Please refer to my <a href="https://scholar.google.com/ci
     <div class="periodical"><em>The 40th Annual AAAI Conference on Artificial Intelligence, <strong>AAAI</strong>, 2026.</em></div>
     <div class="links">
       <a href="https://arxiv.org/html/2511.08997v1" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://www.trexlabel.com/en/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">T-Rex Series Product Page</a>
     </div>
     <div class="paper-tags">
       <span class="paper-tag">Open world Object Detection</span>
