@@ -4,7 +4,8 @@ layout: homepage
 
 ## About Me
 
-Hi! I am Jiazhou Zhou (周佳舟), a PhD student (2024.09,--) at <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/">AI Thrust, Information Hub</a> of <a href="https://www.hkust-gz.edu.cn/"> The Hong Kong University of Science and Technology (Guangzhou)</a>. I am fortunate to be advised by <a href="https://www.leizhang.org/">Prof. Lei Zhang</a> and <a href="https://www.yingcong.me/">Prof. Yingcong Chen</a>. Currently, I am having a long-term research internship at <a href="https://www.idea.edu.cn/">International Digital Economy Academy, IDEA</a>.
+Hi! I am Jiazhou Zhou (周佳舟), a PhD student (2024.09,--) at <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/">AI Thrust, Information Hub</a> of <a href="https://www.hkust-gz.edu.cn/"> The Hong Kong University of Science and Technology (Guangzhou)</a>. I am fortunate to be advised by <a href="https://www.leizhang.org/">Prof. Lei Zhang</a> and <a href="https://www.yingcong.me/">Prof. Yingcong Chen</a>.
+<!-- Currently, I am having a long-term research internship at <a href="https://www.idea.edu.cn/">International Digital Economy Academy, IDEA</a>. -->
 
 ## Research Interest
 - MLLM and Multimodal Learning
