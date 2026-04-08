@@ -90,7 +90,7 @@ Selected publications. Please refer to my <a href="https://scholar.google.com/ci
 <div class="pub-row mod-event-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/pic4.jpg" class="teaser img-fluid z-depth-1" alt="MAGIC">
+    <img src="assets/img/MAGIC.png" class="teaser img-fluid z-depth-1" alt="MAGIC">
     <abbr class="badge">ECCV 2024</abbr>
   </div>
 
@@ -199,7 +199,7 @@ Selected publications. Please refer to my <a href="https://scholar.google.com/ci
 <div class="pub-row mod-multimodal-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/pic3.jpg" class="teaser img-fluid z-depth-1" alt="LaSe-E2V">
+    <img src="assets/img/LaSe-E2V.png" class="teaser img-fluid z-depth-1" alt="LaSe-E2V">
     <abbr class="badge">NeurIPS 2024</abbr>
   </div>
 
