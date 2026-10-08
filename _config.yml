@@ -18,14 +18,14 @@ email: jiazhou.garland@gmail.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Jiazhou Zhou, computer vision, event-based vision, multimodal learning, HKUST, IDEA Research, MLLM
-description: Personal homepage of Jiazhou Zhou, PhD student at HKUST(GZ) and research intern at IDEA Research, working on multimodal learning.
+keywords: Jiazhou Zhou, multimodal agents, agentic RL, vision-language models, multimodal learning, event-based vision, HKUST, IDEA Research
+description: Personal homepage of Jiazhou Zhou, PhD student at HKUST(GZ) and research intern at IDEA Research, working on multimodal agents and self-evolving systems.
 canonical: https://jiazhou-garland.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=JQnsB8MAAAAJ&hl=en
-# cv_link: assets/files/CV.pdf
+cv_link: assets/files/CV_Jiazhouzhou.pdf
 github_link: https://github.com/jiazhou-garland
 # linkedin: https://www.linkedin.com/in/hanchao-ted-zhang-670105b7/?locale=en_US
 # twitter: https://twitter.com/tedddddy_zhang

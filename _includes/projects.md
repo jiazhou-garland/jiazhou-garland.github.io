@@ -3,9 +3,36 @@
 <div class="publications">
 <ol class="bibliography">
 
-Selected publications. Please refer to my <a href="https://scholar.google.com/citations?user=JQnsB8MAAAAJ&hl=en">Google Scholar</a> for a full paper list.
+Selected publications (12 papers, 10 published/accepted). Please refer to my <a href="https://scholar.google.com/citations?user=JQnsB8MAAAAJ&hl=en">Google Scholar</a> for a full paper list.
 
-<div class="pub-section-label mod-multimodal"><em>Part I: Multimodal Learning &amp; Vision-Language Models</em></div>
+<div class="pub-section-label mod-multimodal"><em>Part I: Multimodal Agents, Agentic RL &amp; On-Policy Distillation</em></div>
+
+<li>
+<div class="pub-row mod-multimodal-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/PIVOT.png" class="teaser img-fluid z-depth-1" alt="PIVOT">
+    <abbr class="badge">Preprint</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2609.35303">PIVOT: Pivot-Aware On Policy Self Distillation for Multi-Turn VLM Agents</a></div>
+    <div class="author"><strong>Jiazhou Zhou</strong>, Hu Zhou, Yucheng Chen, Jinyuan Qu, Ying-Cong Chen, Lei Zhang</div>
+    <div class="periodical"><em>Under review, 2026.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/html/2609.35303v1" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Page</a>
+      <a href="https://arxiv.org/pdf/2609.35303" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+    <div class="paper-tags">
+      <span class="paper-tag">VLM Agents</span>
+      <span class="paper-tag">Agentic RL</span>
+      <span class="paper-tag">On-Policy Distillation</span>
+    </div>
+  </div>
+</div>
+</li>
+
+<div class="pub-section-label mod-multimodal"><em>Part II: Multimodal Reasoning &amp; Latent Space Reasoning</em></div>
 
 <li>
 <div class="pub-row mod-multimodal-row">
@@ -17,8 +44,8 @@ Selected publications. Please refer to my <a href="https://scholar.google.com/ci
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://idea-research.github.io/V-Reflection/">V-Reflection: Transforming MLLMs from Passive Observers to Active Interrogators</a></div>
-    <div class="author"><strong>Jiazhou Zhou</strong> et al.</div>
-    <div class="periodical"><em>Under review.</em></div>
+    <div class="author"><strong>Jiazhou Zhou</strong>, Yucheng Chen, Haoran Li, Qing Jiang, Hu Zhou, Ying-Cong Chen, Lei Zhang</div>
+    <div class="periodical"><em>Under review, 2026.</em></div>
     <div class="links">
       <a href="https://idea-research.github.io/V-Reflection/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>
       <a href="https://arxiv.org/html/2604.03307v1" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -33,6 +60,59 @@ Selected publications. Please refer to my <a href="https://scholar.google.com/ci
   </div>
 </div>
 </li>
+
+<li>
+<div class="pub-row mod-multimodal-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/UR2-MLLM.png" class="teaser img-fluid z-depth-1" alt="UR2-MLLM">
+    <abbr class="badge">EMNLP 2026</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2608.22217">UR<sup>2</sup>-MLLM: Uncertainty-aware Revisit Reasoning in Multimodal Large Language Models for Radiology Report Generation</a></div>
+    <div class="author">Yucheng Chen, Yang Yu, <strong>Jiazhou Zhou</strong>, Yufei Shi, Yongying Lan, Yichi Zhang, Liyi Li, Si Yong Yeo</div>
+    <div class="periodical"><em>The 2026 Conference on Empirical Methods in Natural Language Processing, <strong>EMNLP</strong>, 2026.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2608.22217" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+    <div class="paper-tags">
+      <span class="paper-tag">MLLM</span>
+      <span class="paper-tag">Uncertainty</span>
+      <span class="paper-tag">Medical Imaging</span>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row mod-multimodal-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/exact.png" class="teaser img-fluid z-depth-1" alt="ExACT">
+    <abbr class="badge">CVPR 2024 Highlight</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">
+      <a href="https://arxiv.org/pdf/2403.12534.pdf">ExACT: Language-guided Conceptual Reasoning and Uncertainty Estimation for Event-based Action Recognition and More</a>
+    </div>
+    <div class="author"><strong>Jiazhou Zhou</strong>, Xu Zheng, Yuanhuiyi Lyu, Lin Wang</div>
+    <div class="periodical"><em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition, <strong>CVPR</strong> (CCF-A), 2024. <span style="color: red;">Highlight (2.8%)</span></em></div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2403.12534.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://vlislab22.github.io/ExACT/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Page</a>
+    </div>
+    <div class="paper-tags">
+      <span class="paper-tag">Uncertainty</span>
+      <span class="paper-tag">Conceptual Reasoning</span>
+      <span class="paper-tag">Event Camera</span>
+    </div>
+  </div>
+</div>
+</li>
+
+<div class="pub-section-label mod-event"><em>Part III: Multimodal Alignment, Perception &amp; Event Vision</em></div>
 
 <li>
 <div class="pub-row mod-multimodal-row">
@@ -53,6 +133,32 @@ Selected publications. Please refer to my <a href="https://scholar.google.com/ci
     <div class="paper-tags">
       <span class="paper-tag">Open world Object Detection</span>
       <span class="paper-tag">Negative Visual Prompt</span>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row mod-event-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/PASS.png" class="teaser img-fluid z-depth-1" alt="PASS">
+    <abbr class="badge">NeurIPS 2025</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2409.16953">PASS: Path-selective State Space Model for Event-based Recognition</a></div>
+    <div class="author"><strong>Jiazhou Zhou</strong>, Kanghao Chen, Lei Zhang, Lin Wang</div>
+    <div class="periodical"><em>The Thirty-Ninth Annual Conference on Neural Information Processing Systems, <strong>NeurIPS</strong> (CCF-A), 2025.</em></div>
+    <div class="links">
+      <a href="https://jiazhou-garland.github.io/PASS_Homepage/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Page</a>
+      <a href="https://arxiv.org/pdf/2409.16953" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/jiazhou-garland/PASS" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+    <div class="paper-tags">
+      <span class="paper-tag tag-event">Event Camera</span>
+      <span class="paper-tag tag-event">State Space Model</span>
+      <span class="paper-tag tag-event">Recognition</span>
     </div>
   </div>
 </div>
@@ -85,83 +191,25 @@ Selected publications. Please refer to my <a href="https://scholar.google.com/ci
 </div>
 </li>
 
-
-<li>
-<div class="pub-row mod-event-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/MAGIC.png" class="teaser img-fluid z-depth-1" alt="MAGIC">
-    <abbr class="badge">ECCV 2024</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2407.11344">Centering the Value of Every Modality: Towards Efficient and Resilient Modality-agnostic Semantic Segmentation</a></div>
-    <div class="author">Xu Zheng, Yuanhuiyi Lyu, <strong>Jiazhou Zhou</strong>, Lin Wang</div>
-    <div class="periodical"><em>European Conference on Computer Vision, <strong>ECCV</strong> (CCF-B), 2024.</em></div>
-    <div class="links">
-      <a href="https://arxiv.org/pdf/2407.11344" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://vlislab22.github.io/MAGIC/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Page</a>
-    </div>
-    <div class="paper-tags">
-      <span class="paper-tag tag-event">Semantic Segmentation</span>
-      <span class="paper-tag tag-event">Multimodal</span>
-    </div>
-  </div>
-</div>
-</li>
-
-
-
-<div class="pub-section-label mod-event"><em>Part II: Event-based Vision &amp; General Perception</em></div>
-
-<li>
-<div class="pub-row mod-event-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/PASS.png" class="teaser img-fluid z-depth-1" alt="PASS">
-    <abbr class="badge">NeurIPS 2025</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2409.16953">PASS: Path-selective State Space Model for Event-based Recognition</a></div>
-    <div class="author"><strong>Jiazhou Zhou</strong>, Kanghao Chen, Lei Zhang, Lin Wang</div>
-    <div class="periodical"><em>The Thirty-Ninth Annual Conference on Neural Information Processing Systems, <strong>NeurIPS</strong> (CCF-A), 2025.</em></div>
-    <div class="links">
-      <a href="https://jiazhou-garland.github.io/PASS_Homepage/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Page</a>
-      <a href="https://arxiv.org/pdf/2409.16953" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/jiazhou-garland/PASS" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-    </div>
-    <div class="paper-tags">
-      <span class="paper-tag tag-event">Event Camera</span>
-      <span class="paper-tag tag-event">State Space Model</span>
-      <span class="paper-tag tag-event">Recognition</span>
-    </div>
-  </div>
-</div>
-</li>
-
 <li>
 <div class="pub-row mod-multimodal-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/exact.png" class="teaser img-fluid z-depth-1" alt="ExACT">
-    <abbr class="badge">CVPR 2024 Highlight</abbr>
+    <img src="assets/img/LaSe-E2V.png" class="teaser img-fluid z-depth-1" alt="LaSe-E2V">
+    <abbr class="badge">NeurIPS 2024</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">
-      <a href="https://arxiv.org/pdf/2403.12534.pdf">ExACT: Language-guided Conceptual Reasoning and Uncertainty Estimation for Event-based Action Recognition and More</a>
-    </div>
-    <div class="author"><strong>Jiazhou Zhou</strong>, Xu Zheng, Yuanhuiyi Lyu, Lin Wang</div>
-    <div class="periodical"><em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition, <strong>CVPR</strong> (CCF-A), 2024. <span style="color: red;">Highlight (2.8%)</span></em></div>
+    <div class="title"><a href="https://arxiv.org/pdf/2407.05547">LaSe-E2V: Towards Language-guided Semantic-Aware Event-to-Video Reconstruction</a></div>
+    <div class="author">Kanghao Chen, Haoran Li, <strong>Jiazhou Zhou</strong>, Zeyu Wang, Lin Wang</div>
+    <div class="periodical"><em>The Thirty-Eighth Annual Conference on Neural Information Processing Systems, <strong>NeurIPS</strong> (CCF-A), 2024.</em></div>
     <div class="links">
-      <a href="https://arxiv.org/pdf/2403.12534.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://vlislab22.github.io/ExACT/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Page</a>
+      <a href="https://arxiv.org/pdf/2407.05547" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://vlislab22.github.io/LaSe-E2V/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Page</a>
     </div>
     <div class="paper-tags">
-      <span class="paper-tag">Event Camera</span>
-      <span class="paper-tag">Action Recognition</span>
-      <span class="paper-tag">Uncertainty</span>
+      <span class="paper-tag">Event-to-Video</span>
+      <span class="paper-tag">Language-guided</span>
     </div>
   </div>
 </div>
@@ -196,29 +244,28 @@ Selected publications. Please refer to my <a href="https://scholar.google.com/ci
 </li>
 
 <li>
-<div class="pub-row mod-multimodal-row">
+<div class="pub-row mod-event-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/LaSe-E2V.png" class="teaser img-fluid z-depth-1" alt="LaSe-E2V">
-    <abbr class="badge">NeurIPS 2024</abbr>
+    <img src="assets/img/MAGIC.png" class="teaser img-fluid z-depth-1" alt="MAGIC">
+    <abbr class="badge">ECCV 2024</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2407.05547">LaSe-E2V: Towards Language-guided Semantic-Aware Event-to-Video Reconstruction</a></div>
-    <div class="author">Kanghao Chen, Haoran Li, <strong>Jiazhou Zhou</strong>, Zeyu Wang, Lin Wang</div>
-    <div class="periodical"><em>The Thirty-Eighth Annual Conference on Neural Information Processing Systems, <strong>NeurIPS</strong> (CCF-A), 2024.</em></div>
+    <div class="title"><a href="https://arxiv.org/pdf/2407.11344">Centering the Value of Every Modality: Towards Efficient and Resilient Modality-agnostic Semantic Segmentation</a></div>
+    <div class="author">Xu Zheng, Yuanhuiyi Lyu, <strong>Jiazhou Zhou</strong>, Lin Wang</div>
+    <div class="periodical"><em>European Conference on Computer Vision, <strong>ECCV</strong> (CCF-B), 2024.</em></div>
     <div class="links">
-      <a href="https://arxiv.org/pdf/2407.05547" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://vlislab22.github.io/LaSe-E2V/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Page</a>
+      <a href="https://arxiv.org/pdf/2407.11344" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://vlislab22.github.io/MAGIC/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Page</a>
     </div>
     <div class="paper-tags">
-      <span class="paper-tag">Event-to-Video</span>
-      <span class="paper-tag">Language-guided</span>
+      <span class="paper-tag tag-event">Semantic Segmentation</span>
+      <span class="paper-tag tag-event">Multimodal</span>
     </div>
   </div>
 </div>
 </li>
-
 
 <br>
 
