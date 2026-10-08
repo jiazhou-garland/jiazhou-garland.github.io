@@ -8,11 +8,11 @@ Hi! I am Jiazhou Zhou (周佳舟), a PhD student (2024.09--) at <a href="https:/
 
 ## Research Interests
 
-My research focuses on building autonomous, adaptive and self-evolving Multimodal Agents capable of long-horizon reasoning and continuous self-improvement in complex environments. My core interests include:
+**My research focuses on building autonomous, adaptive and self-evolving Multimodal Agents capable of long-horizon reasoning and continuous self-improvement in complex environments. My core interests include:**
 
-- Multimodal Agents & Agentic RL: Multi-turn agentic decision-making, active interrogation, on-policy distillation, and reinforcement learning for Vision-Language Models (VLMs).
-- Self-Evolving & Autonomous Systems: Closed-loop self-reflection, test-time scaling/reasoning, and self-improving paradigms for continuous learning without dense human supervision.
-- Multimodal Reasoning & Perception Alignment: Latent space reasoning, uncertainty estimation, and unified representation space connecting cross-modal perception.
+- **Multimodal Agents & Agentic RL:** Multi-turn agentic decision-making, active interrogation, on-policy distillation, and reinforcement learning for Vision-Language Models (VLMs).
+- **Self-Evolving & Autonomous Systems:** Closed-loop self-reflection, test-time scaling/reasoning, and self-improving paradigms for continuous learning without dense human supervision.
+- **Multimodal Reasoning & Perception Alignment:** Latent space reasoning, uncertainty estimation, and unified representation space connecting cross-modal perception.
 
 {% include projects.md %}
 
