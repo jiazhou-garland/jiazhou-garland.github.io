@@ -13,7 +13,7 @@
   --vr-gray:      #64748b;
   --vr-gray-lt:   #94a3b8;
   --vr-border:    #e2e8f0;
-  --vr-card-bg:   #f8fafc;
+  --vr-card-bg:   #ffffff;
   --vr-shadow:    0 1px 4px rgba(15,23,42,0.08), 0 4px 16px rgba(15,23,42,0.05);
   --vr-shadow-hv: 0 4px 20px rgba(37,99,235,0.12), 0 1px 6px rgba(15,23,42,0.08);
 }
@@ -296,4 +296,226 @@ section ul li ul li::before {
   .publications ol.bibliography li .title a { color: #f1f5f9; }
   .publications ol.bibliography li .title a:hover { color: #60a5fa; }
   .publications ol.bibliography li .author strong { color: #f1f5f9; }
+}
+
+/* ─────────────────────────────────────────────
+   Page chrome
+───────────────────────────────────────────── */
+body {
+  background: #eef2f6;
+}
+
+strong {
+  font-weight: 700;
+}
+
+body::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  z-index: 30;
+  background: linear-gradient(90deg, #1e3a8a 0%, #2563eb 46%, #0891b2 100%);
+}
+
+h2 {
+  font-size: 1.12rem;
+  margin-top: 2.6rem;
+}
+
+@media screen and (min-width: 961px) {
+  .wrapper {
+    width: min(1140px, calc(100vw - 40px));
+  }
+
+  header {
+    width: 252px;
+    top: 0;
+    bottom: 0;
+    overflow-y: auto;
+    padding-top: 2.6rem;
+    padding-bottom: 2rem;
+    background: #fff;
+    border-right: 1px solid var(--vr-border);
+  }
+
+  section {
+    width: calc(100% - 292px);
+    padding-top: 2.5rem;
+    padding-bottom: 4rem;
+  }
+}
+
+header br {
+  display: none;
+}
+
+header h1 {
+  margin-top: 0.85rem;
+  font-size: 1.38rem;
+  letter-spacing: -0.03em;
+}
+
+header a[href^="mailto"] {
+  display: block;
+  margin-top: 0.45rem;
+}
+
+header .social-icons {
+  margin-top: 1.15rem;
+}
+
+.social-icons a {
+  width: 2.15rem;
+  height: 2.15rem;
+  line-height: 2.15rem;
+  margin-right: 0.35rem;
+  border-radius: 999px;
+  background: #f1f5f9;
+  opacity: 1;
+}
+
+.social-icons a:hover {
+  background: #eff6ff;
+  transform: translateY(-2px);
+}
+
+.image.avatar img {
+  width: 148px;
+  height: 148px;
+  object-fit: cover;
+  border-radius: 50%;
+  padding: 0;
+  border: 3px solid #fff;
+  box-shadow: 0 0 0 1px var(--vr-border), 0 8px 24px rgba(15, 23, 42, 0.12);
+}
+
+section > p:first-of-type {
+  background: #fff;
+  border: 1px solid var(--vr-border);
+  border-left: 3px solid var(--vr-blue);
+  border-radius: 10px;
+  box-shadow: var(--vr-shadow);
+  padding: 14px 16px;
+}
+
+.ri-lead {
+  font-size: 0.95rem;
+  line-height: 1.75;
+  color: var(--vr-navy);
+  margin: 0 0 0.85rem;
+}
+
+.ri-lead strong {
+  font-weight: 700;
+}
+
+.ri-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin: 0 0 0.4rem;
+}
+
+.ri-card {
+  background: #fff;
+  border: 1px solid var(--vr-border);
+  border-left: 3px solid var(--vr-blue);
+  border-radius: 10px;
+  padding: 12px 14px 12px 15px;
+  box-shadow: var(--vr-shadow);
+}
+
+.ri-card:nth-child(2) { border-left-color: #0891b2; }
+.ri-card:nth-child(3) { border-left-color: #7c3aed; }
+
+.ri-title {
+  font-weight: 700;
+  font-size: 0.92rem;
+  color: var(--vr-navy);
+  letter-spacing: -0.01em;
+  margin-bottom: 3px;
+}
+
+.ri-card p {
+  margin: 0;
+  font-size: 0.86rem;
+  line-height: 1.65;
+  color: #526072;
+}
+
+.pub-count {
+  font-weight: 500;
+  font-size: 0.84rem;
+  color: var(--vr-gray);
+  margin-left: 0.15rem;
+}
+
+.pub-intro {
+  font-size: 0.86rem;
+  line-height: 1.6;
+  color: var(--vr-gray);
+  margin: -0.15rem 0 0.35rem;
+}
+
+section ul li {
+  margin-bottom: 0.35rem;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #0b1220;
+  }
+
+  header {
+    background: #0f172a;
+  }
+
+  .social-icons a {
+    background: #1e293b;
+  }
+
+  .social-icons a:hover {
+    background: #172554;
+  }
+
+  .image.avatar img {
+    border-color: #1e293b;
+  }
+
+  section > p:first-of-type,
+  .ri-card {
+    background: #111827;
+    border-color: #1e293b;
+  }
+
+  .ri-lead,
+  .ri-title {
+    color: #f1f5f9;
+  }
+
+  .ri-card p {
+    color: #94a3b8;
+  }
+}
+
+@media print, screen and (max-width: 960px) {
+  header {
+    background: transparent;
+    border-right: none;
+    text-align: center;
+    padding-top: 1.4rem;
+  }
+
+  section {
+    border: none;
+    padding-top: 0.4rem;
+  }
+
+  .image.avatar img {
+    width: 132px;
+    height: 132px;
+  }
 }

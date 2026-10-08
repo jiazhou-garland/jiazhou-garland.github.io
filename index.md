@@ -8,11 +8,22 @@ Hi! I am Jiazhou Zhou (周佳舟), a PhD student (2024.09--) at <a href="https:/
 
 ## Research Interests
 
-**My research focuses on building autonomous, adaptive and self-evolving Multimodal Agents capable of long-horizon reasoning and continuous self-improvement in complex environments. My core interests include:**
+<p class="ri-lead"><strong>My research focuses on building autonomous, adaptive and self-evolving Multimodal Agents capable of long-horizon reasoning and continuous self-improvement in complex environments. My core interests include:</strong></p>
 
-- **Multimodal Agents & Agentic RL:** Multi-turn agentic decision-making, active interrogation, on-policy distillation, and reinforcement learning for Vision-Language Models (VLMs).
-- **Self-Evolving & Autonomous Systems:** Closed-loop self-reflection, test-time scaling/reasoning, and self-improving paradigms for continuous learning without dense human supervision.
-- **Multimodal Reasoning & Perception Alignment:** Latent space reasoning, uncertainty estimation, and unified representation space connecting cross-modal perception.
+<div class="ri-grid">
+  <div class="ri-card">
+    <div class="ri-title">Multimodal Agents &amp; Agentic RL</div>
+    <p>Multi-turn agentic decision-making, active interrogation, on-policy distillation, and reinforcement learning for Vision-Language Models (VLMs).</p>
+  </div>
+  <div class="ri-card">
+    <div class="ri-title">Self-Evolving &amp; Autonomous Systems</div>
+    <p>Closed-loop self-reflection, test-time scaling/reasoning, and self-improving paradigms for continuous learning without dense human supervision.</p>
+  </div>
+  <div class="ri-card">
+    <div class="ri-title">Multimodal Reasoning &amp; Perception Alignment</div>
+    <p>Latent space reasoning, uncertainty estimation, and unified representation space connecting cross-modal perception.</p>
+  </div>
+</div>
 
 {% include projects.md %}
 

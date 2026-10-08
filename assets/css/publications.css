@@ -45,15 +45,29 @@ blockquote {
   font-size: 1.2rem;
 }
 
-@media print,
-screen and (min-width: 480px) {
-  .col-sm-9 {
-    width: 100%;
-  }
+.pub-row > .col-sm-3 {
+  flex: 0 0 188px;
+  width: 188px;
+  max-width: 188px;
+  padding-left: 2px !important;
+  padding-right: 10px !important;
+}
+
+.pub-row > .col-sm-9 {
+  flex: 1;
+  width: auto;
+  min-width: 0;
+  padding-left: 8px !important;
+}
+
+.pub-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 4px;
 }
 
 .publications {
-  margin-top: 2rem;
+  margin-top: 0.2rem;
 }
 
 .publications h1 {
@@ -205,13 +219,13 @@ screen and (min-width: 480px) {
 
 .publications ol.bibliography li .teaser {
   border-radius: 8px;
-  box-shadow: 3px 3px 6px #888;
-  height: 123px;
-  width: 270px;
-  margin-top: 5px;
-  margin-left: 5px;
-  margin-bottom: 5px;
+  box-shadow: 0 2px 8px rgba(15, 23, 42, 0.1);
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 10;
+  margin: 0;
   object-fit: cover;
+  display: block;
 }
 
 /* ── Section divider labels ── */
@@ -305,4 +319,13 @@ screen and (min-width: 480px) {
   .pub-section-label.mod-event      { color: #22d3ee; }
   .pub-row.mod-multimodal-row { border-color: #2563eb; }
   .pub-row.mod-event-row      { border-color: #0891b2; }
+}
+
+@media screen and (max-width: 720px) {
+  .pub-row > .col-sm-3 {
+    flex: none;
+    width: 100%;
+    max-width: 280px;
+    margin-bottom: 8px;
+  }
 }

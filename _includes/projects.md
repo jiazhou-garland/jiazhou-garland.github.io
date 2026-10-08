@@ -1,9 +1,8 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications <span style="font-weight:normal;font-size:1rem;">(<em>Selected</em>)</span></h2>
+<h2 id="publications">Publications <span class="pub-count">(Selected)</span></h2>
 
 <div class="publications">
+<p class="pub-intro">Selected publications (12 papers, 10 published/accepted). Please refer to my <a href="https://scholar.google.com/citations?user=JQnsB8MAAAAJ&hl=en">Google Scholar</a> for a full paper list.</p>
 <ol class="bibliography">
-
-Selected publications (12 papers, 10 published/accepted). Please refer to my <a href="https://scholar.google.com/citations?user=JQnsB8MAAAAJ&hl=en">Google Scholar</a> for a full paper list.
 
 <div class="pub-section-label mod-multimodal"><em>Part I: Multimodal Agents, Agentic RL &amp; On-Policy Distillation</em></div>
 
