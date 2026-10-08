@@ -311,15 +311,27 @@ blockquote {
 }
 
 @media (prefers-color-scheme: dark) {
-  .paper-tag            { background: #1e3a5f; color: #93c5fd; border-color: #1d4ed8; }
-  .paper-tag:hover      { background: #1d4ed8; }
-  .paper-tag.tag-event  { background: #164e63; color: #67e8f9; border-color: #0e7490; }
-  .paper-tag.tag-event:hover { background: #0e7490; }
-  .pub-section-label.mod-multimodal { color: #60a5fa; }
-  .pub-section-label.mod-event      { color: #22d3ee; }
-  .pub-row.mod-multimodal-row { border-color: #2563eb; }
-  .pub-row.mod-event-row      { border-color: #0891b2; }
+  html:not([data-theme="light"]) .paper-tag            { background: #1e3a5f; color: #93c5fd; border-color: #1d4ed8; }
+  html:not([data-theme="light"]) .paper-tag:hover      { background: #1d4ed8; }
+  html:not([data-theme="light"]) .paper-tag.tag-event  { background: #164e63; color: #67e8f9; border-color: #0e7490; }
+  html:not([data-theme="light"]) .paper-tag.tag-event:hover { background: #0e7490; }
+  html:not([data-theme="light"]) .pub-section-label.mod-multimodal { color: #60a5fa; }
+  html:not([data-theme="light"]) .pub-section-label.mod-event      { color: #22d3ee; }
 }
+
+html[data-theme="dark"] .paper-tag            { background: #1e3a5f; color: #93c5fd; border-color: #1d4ed8; }
+html[data-theme="dark"] .paper-tag:hover      { background: #1d4ed8; }
+html[data-theme="dark"] .paper-tag.tag-event  { background: #164e63; color: #67e8f9; border-color: #0e7490; }
+html[data-theme="dark"] .paper-tag.tag-event:hover { background: #0e7490; }
+html[data-theme="dark"] .pub-section-label.mod-multimodal { color: #60a5fa; }
+html[data-theme="dark"] .pub-section-label.mod-event      { color: #22d3ee; }
+
+html[data-theme="light"] .paper-tag            { background: #dbeafe; color: #1e40af; border-color: #bfdbfe; }
+html[data-theme="light"] .paper-tag:hover      { background: #bfdbfe; border-color: #93c5fd; }
+html[data-theme="light"] .paper-tag.tag-event  { background: #cffafe; color: #0e7490; border-color: #a5f3fc; }
+html[data-theme="light"] .paper-tag.tag-event:hover { background: #a5f3fc; border-color: #67e8f9; }
+html[data-theme="light"] .pub-section-label.mod-multimodal { color: #2563eb; }
+html[data-theme="light"] .pub-section-label.mod-event      { color: #0891b2; }
 
 @media screen and (max-width: 720px) {
   .pub-row > .col-sm-3 {
