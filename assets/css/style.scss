@@ -629,11 +629,6 @@ html[data-theme="dark"] body {
   color: var(--vr-text);
 }
 
-@media (min-width: 900px) {
-  .ri-grid {
-    grid-template-columns: repeat(3, 1fr);
-  }
-}
 
 @media (max-width: 720px) {
   .wrapper {

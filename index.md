@@ -8,20 +8,20 @@ Hi! I am Jiazhou Zhou (周佳舟), a PhD student (2024.09--) at <a href="https:/
 
 ## Research Interests {#research}
 
-<p class="ri-lead"><strong>My research focuses on building autonomous, adaptive and self-evolving Multimodal Agents capable of long-horizon reasoning and continuous self-improvement in complex environments. My core interests include:</strong></p>
+<p class="ri-lead">Dedicated to building <strong>Next-Generation Self-Evolving Embodied Cognitive Systems</strong> grounded in physical reality. My research establishes a closed loop of <strong>Physical Interaction — World Modeling — Policy Self-Evolution</strong> to transcend static pre-training paradigms, focusing on three core thrusts:</p>
 
 <div class="ri-grid">
   <div class="ri-card">
-    <div class="ri-title">Multimodal Agents &amp; Agentic RL</div>
-    <p>Multi-turn agentic decision-making, active interrogation, on-policy distillation, and reinforcement learning for Vision-Language Models (VLMs).</p>
+    <div class="ri-title">Embodied Decision-Making &amp; Policy Self-Evolution</div>
+    <p>Investigating active intervention and long-horizon multi-turn planning for embodied agents. Specifically, addressing long-term temporal credit assignment under sparse rewards via on-policy self-distillation and multimodal agentic reinforcement learning, enabling continuous self-improvement without dense human supervision.</p>
   </div>
   <div class="ri-card">
-    <div class="ri-title">Self-Evolving &amp; Autonomous Systems</div>
-    <p>Closed-loop self-reflection, test-time scaling/reasoning, and self-improving paradigms for continuous learning without dense human supervision.</p>
+    <div class="ri-title">Multimodal World Models &amp; Embodied Counterfactual Reasoning</div>
+    <p>Developing physics-grounded world models that serve as internal neural physics engines for embodied agents. Leveraging active interrogation and self-reflection to facilitate latent counterfactual imagination, spatiotemporal causal prediction, and test-time planning scaling to provide predictive priors for complex decision-making.</p>
   </div>
   <div class="ri-card">
-    <div class="ri-title">Multimodal Reasoning &amp; Perception Alignment</div>
-    <p>Latent space reasoning, uncertainty estimation, and unified representation space connecting cross-modal perception.</p>
+    <div class="ri-title">Embodied Full-Modal Perception Foundations</div>
+    <p>Designing modality-agnostic representations across vision, touch, 3D geometric priors, and neuromorphic event streams in dynamic, unstructured physical environments, establishing a low-latency, robust sensory foundation for embodied physical grounding.</p>
   </div>
 </div>
 
@@ -41,18 +41,5 @@ Hi! I am Jiazhou Zhou (周佳舟), a PhD student (2024.09--) at <a href="https:/
 - Teaching Assistant:
   - UFUG2102, Matrix Algebra and Applications, HKUST(GZ), 2025.6-2025.7
   - CMAA6102, Computational Media and Arts Program Seminar, HKUST(GZ), 2024.9-2025.5
-
-## Education {#education}
-
-- \[2024.09 - Present\]: Ph.D., AI Thrust, Information Hub, <a href="https://www.hkust-gz.edu.cn/">HKUST(GZ)</a>, China
-- \[2020.09 - 2023.06\]: M.E., Optical Engineering, <a href="https://www.uestc.edu.cn/">UESTC</a>, China (GPA: 3.82 / 4.00)
-- \[2016.09 - 2020.06\]: B.E., Electronic Science and Technology, <a href="https://www.uestc.edu.cn/">UESTC</a>, China (GPA: 3.82 / 4.00)
-
-## Honors and Awards {#honors}
-
-- 2025, NeurIPS Scholar Award
-- 2022.06, Final Winner (Top 1.5%), ZTE Algorithm Elite Competition (Image Denoising Track)
-- 2018.10, CSC Outstanding Undergraduate International Exchange Program Scholarship (Top 2)
-- 2018.08, First Prize, National University Mathematical Modeling Competition (Top 10)
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=000000&w=500&t=m&d=3LGrgmyYI_ZwG_L9hAge87EruQozTUiUfLqacVMTNd0&co=ffffff&cmo=c42e2e&cmn=82d482&ct=000000'></script>
