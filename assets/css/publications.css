@@ -412,7 +412,7 @@ html[data-theme="light"] .pub-section-label.mod-event      { color: #111; }
 html[data-theme="dark"] .publications ol.bibliography li .links a.btn {
   background: transparent;
   border: none;
-  color: #c084fc;
+  color: #38bdf8;
 }
 
 @media screen and (max-width: 720px) {
