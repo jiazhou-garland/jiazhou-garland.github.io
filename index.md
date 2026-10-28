@@ -4,26 +4,15 @@ layout: homepage
 
 ## About Me {#about}
 
-Hi! I am Jiazhou Zhou (周佳舟), a PhD student (2024.09--) at <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/">AI Thrust, Information Hub</a> of <a href="https://www.hkust-gz.edu.cn/">The Hong Kong University of Science and Technology (Guangzhou)</a>. I am fortunate to be advised by <a href="https://www.leizhang.org/">Prof. Lei Zhang</a> and <a href="https://www.yingcong.me/">Prof. Yingcong Chen</a>. I am also a research intern at <a href="https://www.idea.edu.cn/">International Digital Economy Academy (IDEA)</a>.
+Hi! I am Jiazhou Zhou (周佳舟), a PhD student (2024.09–2027.10) at <a href="https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/">AI Thrust, Information Hub</a> of <a href="https://www.hkust-gz.edu.cn/">The Hong Kong University of Science and Technology (Guangzhou)</a>. I am fortunate to be advised by <a href="https://www.leizhang.org/">Prof. Lei Zhang</a> and <a href="https://www.yingcong.me/">Prof. Yingcong Chen</a>. I am also a research intern at <a href="https://www.idea.edu.cn/">International Digital Economy Academy (IDEA)</a>. I expect to graduate in October 2027 and am open to both industry and research positions.
 
 ## Research Interests {#research}
 
-<p class="ri-lead">Dedicated to building <strong>Next-Generation Self-Evolving Embodied Cognitive Systems</strong> grounded in physical reality. My research establishes a closed loop of <strong>Physical Interaction — World Modeling — Policy Self-Evolution</strong> to transcend static pre-training paradigms, focusing on three core thrusts:</p>
+Dedicated to building <strong>Next-Generation Self-Evolving Embodied Cognitive Systems</strong> grounded in physical reality. My research establishes a closed loop of <strong>Physical Interaction — World Modeling — Policy Self-Evolution</strong> to transcend static pre-training paradigms, focusing on three core thrusts:
 
-<div class="ri-grid">
-  <div class="ri-card">
-    <div class="ri-title">Embodied Decision-Making &amp; Policy Self-Evolution</div>
-    <p>Investigating active intervention and long-horizon multi-turn planning for embodied agents. Specifically, addressing long-term temporal credit assignment under sparse rewards via on-policy self-distillation and multimodal agentic reinforcement learning, enabling continuous self-improvement without dense human supervision.</p>
-  </div>
-  <div class="ri-card">
-    <div class="ri-title">Multimodal World Models &amp; Embodied Counterfactual Reasoning</div>
-    <p>Developing physics-grounded world models that serve as internal neural physics engines for embodied agents. Leveraging active interrogation and self-reflection to facilitate latent counterfactual imagination, spatiotemporal causal prediction, and test-time planning scaling to provide predictive priors for complex decision-making.</p>
-  </div>
-  <div class="ri-card">
-    <div class="ri-title">Embodied Full-Modal Perception Foundations</div>
-    <p>Designing modality-agnostic representations across vision, touch, 3D geometric priors, and neuromorphic event streams in dynamic, unstructured physical environments, establishing a low-latency, robust sensory foundation for embodied physical grounding.</p>
-  </div>
-</div>
+- **Embodied Decision-Making & Policy Self-Evolution:** Investigating active intervention and long-horizon multi-turn planning for embodied agents. Specifically, addressing long-term temporal credit assignment under sparse rewards via on-policy self-distillation and multimodal agentic reinforcement learning, enabling continuous self-improvement without dense human supervision.
+- **Multimodal World Models & Embodied Counterfactual Reasoning:** Developing physics-grounded world models that serve as internal neural physics engines for embodied agents. Leveraging active interrogation and self-reflection to facilitate latent counterfactual imagination, spatiotemporal causal prediction, and test-time planning scaling to provide predictive priors for complex decision-making.
+- **Embodied Full-Modal Perception Foundations:** Designing modality-agnostic representations across vision, touch, 3D geometric priors, and neuromorphic event streams in dynamic, unstructured physical environments, establishing a low-latency, robust sensory foundation for embodied physical grounding.
 
 {% include projects.md %}
 

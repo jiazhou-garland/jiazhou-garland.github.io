@@ -44,7 +44,17 @@
 
 <body id="top">
   <nav class="topnav" aria-label="Section">
-    <a class="topnav-brand" href="#top">{{ site.title }}</a>
+    <div class="topnav-social">
+      {% if site.google_scholar %}
+      <a href="{{ site.google_scholar }}" aria-label="Google Scholar" target="_blank" rel="noopener"><i class="ai ai-google-scholar"></i></a>
+      {% endif %}
+      {% if site.github_link %}
+      <a href="{{ site.github_link }}" aria-label="GitHub" target="_blank" rel="noopener"><i class="fab fa-github"></i></a>
+      {% endif %}
+      {% if site.email %}
+      <a href="mailto:{{ site.email }}" aria-label="Email"><i class="fas fa-envelope"></i></a>
+      {% endif %}
+    </div>
     <div class="topnav-links">
       <a href="#about">About</a>
       <a href="#research">Research</a>
@@ -66,60 +76,15 @@
   </nav>
 
   <div class="wrapper">
-    <header class="profile">
-      {% if site.avatar %}
-      <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /></a>
-      {% endif %}
-      <div class="profile-body">
-        {% if site.logo %}
-        <a class="image logo"><img src="{{ site.logo }}" alt="logo" /></a>
-        {% endif %}
-        <h1>{{ site.title }}</h1>
-        {% if site.subtitle %}
-        <h3>{{ site.subtitle }}</h3>
-        {% endif %}
-        {% if site.position %}
-        <position>{{ site.position }}</position>
-        {% endif %}
-        {% if site.subposition %}
-        <a href="{{ site.subposition_link }}" class="no-color" rel="noopener" target="_blank">
-          <position>{{ site.subposition }}</position>
-        </a>
-        {% endif %}
-        <div class="profile-affil">
-          {% if site.subaffiliation %}
-          <a href="{{ site.subaffiliation_link }}" rel="noopener" target="_blank"><autocolor>{{ site.subaffiliation }}</autocolor></a>
-          {% endif %}
-          {% if site.affiliation %}
-          <a href="{{ site.affiliation_link }}" rel="noopener" target="_blank"><autocolor>{{ site.affiliation }}</autocolor></a>
-          {% endif %}
-        </div>
-        {% if site.address %}
-        <a href="{{ site.address_link }}" rel="noopener" target="_blank"><h4>{{ site.address }}</h4></a>
-        {% endif %}
-        <div class="profile-contact">
-          {% if site.email %}
-          <a class="profile-email" href="mailto:{{ site.email }}"><email>{{ site.email }}</email></a>
-          {% endif %}
-          <div class="social-icons">
-            {% if site.google_scholar %}
-            <a href="{{ site.google_scholar }}" aria-label="Google Scholar" target="_blank" rel="noopener"><i class="ai ai-google-scholar"></i></a>
-            {% endif %}
-            {% if site.github_link %}
-            <a href="{{ site.github_link }}" aria-label="GitHub" target="_blank" rel="noopener"><i class="fab fa-github"></i></a>
-            {% endif %}
-            {% if site.linkedin %}
-            <a href="{{ site.linkedin }}" aria-label="LinkedIn" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>
-            {% endif %}
-            {% if site.twitter %}
-            <a href="{{ site.twitter }}" aria-label="Twitter" target="_blank" rel="noopener"><i class="fab fa-twitter"></i></a>
-            {% endif %}
-          </div>
-        </div>
-      </div>
+    <header class="folio-head">
+      <h1>{{ site.title }}</h1>
+      <p class="folio-desc">PhD Student @ <a href="{{ site.subaffiliation_link }}">HKUST(GZ)</a> | Research Intern @ <a href="{{ site.affiliation_link }}">IDEA</a><br>Expected graduation: Oct 2027 · Open to industry and research positions</p>
     </header>
 
     <section>
+      {% if site.avatar %}
+      <img class="folio-photo" src="{{ site.avatar }}" alt="{{ site.title }}" />
+      {% endif %}
       {{ content }}
       {% if site.enable_footnote %}
       <p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small></p>

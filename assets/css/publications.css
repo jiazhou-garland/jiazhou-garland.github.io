@@ -330,8 +330,90 @@ html[data-theme="light"] .paper-tag            { background: #dbeafe; color: #1e
 html[data-theme="light"] .paper-tag:hover      { background: #bfdbfe; border-color: #93c5fd; }
 html[data-theme="light"] .paper-tag.tag-event  { background: #cffafe; color: #0e7490; border-color: #a5f3fc; }
 html[data-theme="light"] .paper-tag.tag-event:hover { background: #a5f3fc; border-color: #67e8f9; }
-html[data-theme="light"] .pub-section-label.mod-multimodal { color: #2563eb; }
-html[data-theme="light"] .pub-section-label.mod-event      { color: #0891b2; }
+html[data-theme="light"] .pub-section-label.mod-multimodal { color: #111; }
+html[data-theme="light"] .pub-section-label.mod-event      { color: #111; }
+
+.publications ol.bibliography {
+  list-style: decimal;
+  padding-left: 1.35rem;
+}
+
+.publications ol.bibliography li {
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid var(--vr-border, rgba(0, 0, 0, 0.1));
+  border-radius: 0;
+  box-shadow: none;
+  padding: 0.85rem 0 0.95rem;
+  margin-bottom: 0;
+  transform: none;
+}
+
+.publications ol.bibliography li:hover {
+  box-shadow: none;
+  transform: none;
+}
+
+.pub-row.mod-multimodal-row,
+.pub-row.mod-event-row {
+  border-left: none;
+  border-radius: 0;
+}
+
+.pub-section-label {
+  font-size: 1.02rem;
+  font-weight: 700;
+  letter-spacing: 0;
+  text-transform: none;
+  color: inherit;
+  margin: 1.4rem 0 0.2rem;
+}
+
+.pub-section-label::after {
+  display: none;
+}
+
+.paper-tags {
+  display: none;
+}
+
+.publications ol.bibliography li .links a.btn {
+  border: none;
+  background: transparent;
+  color: #9333ea;
+  padding: 0 8px 0 0;
+  font-size: 0.92rem;
+  font-weight: 500;
+}
+
+.publications ol.bibliography li .links a.btn:hover {
+  background: transparent;
+  text-decoration: underline;
+}
+
+.publications ol.bibliography li .title {
+  font-size: 1.02rem;
+}
+
+.publications ol.bibliography li .teaser {
+  width: 148px;
+  max-width: 148px;
+  aspect-ratio: 16 / 10;
+  box-shadow: none;
+  border-radius: 4px;
+}
+
+.pub-row > .col-sm-3 {
+  flex: 0 0 156px;
+  width: 156px;
+  max-width: 156px;
+}
+
+html[data-theme="dark"] .publications ol.bibliography li .links a.btn {
+  background: transparent;
+  border: none;
+  color: #c084fc;
+}
 
 @media screen and (max-width: 720px) {
   .pub-row > .col-sm-3 {
