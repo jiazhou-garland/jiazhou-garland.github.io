@@ -334,8 +334,8 @@ html[data-theme="light"] .pub-section-label.mod-multimodal { color: #111; }
 html[data-theme="light"] .pub-section-label.mod-event      { color: #111; }
 
 .publications ol.bibliography {
-  list-style: decimal;
-  padding-left: 1.35rem;
+  list-style: none;
+  padding-left: 0;
 }
 
 .publications ol.bibliography li {
